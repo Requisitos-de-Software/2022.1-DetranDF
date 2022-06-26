@@ -14,11 +14,11 @@ Projeto foi realizado na unidade do Gama (FGA) durante o periodo de 2022.1
 
 |                                                   | Membro                | Github        |
 | ------------------------------------------------- | --------------------- | ------------- |
-|                                                   |   Alex Gabriel        | Gabriel-Axl   |
+| <img src="./docs/assets/alexx.jpg" width="100">   |   Alex Gabriel        | Gabriel-Axl   |
 | <img src="./docs/assets/arthur.png" width="100">  |   Arthur Henrique     | black258br    |
 |<img src="./docs/assets/christian.png" width="100">|   Christian Fleury    | chfleury      |  
-|                                                   |   Matheus Costa       | mc-gomes      |
+|<img src="./docs/assets/matheus.png" width="100">  |   Matheus Costa       | mc-gomes      |
 | <img src="./docs/assets/paulo.png" width="100">   |   Paulo Henrique      | paulohgontijoo|
-|                                                   |   Thiago Siqueira     | thgomes       |
+| <img src="./docs/assets/thiago.png" width="100">  |   Thiago Siqueira     | thgomes       |
 
 </div>
