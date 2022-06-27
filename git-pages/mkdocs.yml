@@ -1,0 +1,5 @@
+theme:
+  name: material
+  logo: images/detrandf_logo.png
+  favicon: images/detrandf_logo.png
+site_name: Detran-DF
