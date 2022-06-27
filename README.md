@@ -1,5 +1,5 @@
 <div align="center">
-<img src = "docs/images/detrandf_logo.png" width="200"/>
+<img src = "git-pages/docs/images/detrandf_logo.png" width="200"/>
     <br><b>DetranDF</b></br>
 </div>
 
