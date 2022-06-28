@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Sobre o projeto
+Repositorio destinado ao grupo 4 da disciplina de Requisitos de Software ofertada pela Universidade de Brasília. Ele conterá informações e apresentações sobre os requisitos do aplicativo do governo DetranDF.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Projeto foi realizado na unidade do Gama (FGA) durante o periodo de 2022.1
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Contribuidores
+|                                                | Membro           | Github         |
+|------------------------------------------------|------------------|----------------|
+| <img src="./assets/alexx.jpg" width="100">     | Alex Gabriel     | Gabriel-Axl    |
+| <img src="./assets/arthur.png" width="100">    | Arthur Henrique  | black258br     |
+| <img src="./assets/christian.png" width="100"> | Christian Fleury | chfleury       |  
+| <img src="./assets/matheus.png" width="100">   | Matheus Costa    | mc-gomes       |
+| <img src="./assets/paulo.png" width="100">     | Paulo Henrique   | paulohgontijoo |
+| <img src="./assets/thiago.png" width="100">    | Thiago Siqueira  | thgomes        |
