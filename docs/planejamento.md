@@ -9,6 +9,13 @@
 | Análise de Requisitos                                     | Verificação e validação                                                    | 10/08 - 16/08 | 
 | Pós-Rastreabilidade                                       | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 17/08 - 23/08 | 
 
+## 4. Horários disponíveis dos integrantes
+Na seguinte tabela está representada a disponibilidade dos integrantes de acordo com cada horário, essa tabela tem o objetivo de determinar os melhores horários para reunião entre a equipe.
+
+![horarios_disponiveis](/assets/horarios_disponiveis.png "Horários Disponíves")
+
+Planilha com os horários de cada integrante disponível [aqui](https://docs.google.com/spreadsheets/d/1VcyEOwIERyxX-N2xfmTZ8kjvRGureDUciLQ75cMS0U0/edit#gid=471964901).
+
 ## 5. Ferramentas Utilizadas
 
 | Ferramenta | Nome | Descrição |
