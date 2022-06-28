@@ -1,5 +1,10 @@
+site_name: Detran-DF
 theme:
   name: material
   logo: images/detrandf_logo.png
   favicon: images/detrandf_logo.png
-site_name: Detran-DF
+  language: 'pt'
+nav:
+  - Sobre: index.md
+  - Planejamento: planejamento.md
+
