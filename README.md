@@ -8,6 +8,8 @@ Repositorio destinado ao grupo 4 da disciplina de Requisitos de Software ofertad
 
 Projeto foi realizado na unidade do Gama (FGA) durante o periodo de 2022.1
 
+#### ![Link para acessar a wiki do projeto](https://requisitos-de-software.github.io/2022.1-DetranDF/)
+
 # Contribuidores
 
 <div align="center">
