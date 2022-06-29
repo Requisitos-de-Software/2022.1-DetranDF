@@ -3,14 +3,14 @@ O rich-picture é um desenho de uma situação que ilustra os principais element
 
 ## **Rich Pictures visão geral**
 <p><b>Versão 0.1</b></p>
-<img src="../images/richpictures/richpictureM.jpeg"/>
+<img src="../../richpictures/richpictureM.jpeg"/>
 <br></br>
 <p><b>Versão 0.2</b></p>
-<img src="../images/richpictures/richpictureM2.jpeg"/>
+<img src="../../richpictures/richpictureM2.jpeg"/>
 <p>Autor: Matheus Costa Gomes</p>
 <br></br>
 <p><b>Versão 0.3</b></p>
-<img src="../images/richpictures/richpicturev1.png"/>
+<img src="../../richpictures/richpicturev1.png"/>
 <p>Autor: Alex Gabriel Alves Faustino</p>
 ## **Referências**
 > MULTI-STAKEHOLDER PARTNERSHIPS. **Rich Picture**. Disponível em: <a href="https://mspguide.org/2022/03/18/rich-picture/." target="__blank">https://mspguide.org/2022/03/18/rich-picture/.</a> ** Acesso em:** 28 jun. 2022.
