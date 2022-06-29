@@ -54,6 +54,7 @@ Planilha com os horários de cada integrante disponível [aqui](https://docs.goo
 | ![Whatsapp_logo](../assets/logos/Whatsapp.png) | [Whatsapp](https://web.whatsapp.com/) | Ferramenta de comunicação instantânea entre os integrantes |
 | ![VSCode_logo](../assets/logos/VisualStudioCode.png) | [VSCode](https://code.visualstudio.com/) | Editor de código destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![Pycharm_logo](../assets/logos/Pycharm.png) | [PyCharm](https://www.jetbrains.com/pycharm/) | Ambiente de desenvolvimento destinado ao desenvolvimento de aplicações com controle Git incorporado |
+| ![Teams_logo](../assets/logos/Teams.png) | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) | Plataforma usada para a gravação dos vídeos de apresentação do projeto |
 
 ## 6. Referências Bibliograficas
 > Extreme Programming – Conceitos e Práticas. Disponível em: <a href= "https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498">https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498</a><br> Acesso em: 28 de junho de 2022
