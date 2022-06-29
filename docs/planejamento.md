@@ -1,3 +1,28 @@
+## 1. Aplicativos Analisados
+Arthur Henrique - <b>Carteira Digital</b><br>
+Alex Gabriel - <b>Agendamentos</b><br>
+Christian Fleury - <b>MEI</b><br>
+Matheus Costa - <b>DetranDF</b><br>
+Paulo Henrique - <b>ConecteSuS</b><br>
+Thiago Gomes - <b>Carteira Digital</b><br>
+
+## 2. Metodologia
+
+### 2.1 Extreme Programming (XP)
+É uma metodologia ágil com foco em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunicação, feedback e coragem que nos submetem ao reconhecimento de que XP é uma metodologia baseada em comportamentos e atitudes. Dessa forma, ela propicia que o projeto seja executado dentro do prazo e do orçamento, fazendo então com que o cliente fique satisfeito e a equipe de desenvolvimento não fique maluca por causa do projeto.
+
+### 2.1 Sprints Semanais
+O projeto utilizará de "sprints" semanais. No total teremos 14 "sprints" podendo ser maiores ou menores de acordo com o nivel de demanda e ao final de cada uma será realizado uma avaliação.
+
+### 2.2 Revisão por pares (Pull Requests)
+Será utilizado a metodologia de revisão por pares, ou seja, serao realizados pull requests da branch "dev" ao final das atividades da "sprint" para a "main" podendo assim ter uma segurança contra possiveis problemas inseridos no projeto principal
+
+### 2.3 Git Work-Flow
+É um fluxo de trabalho baseado em Branchs onde as implantações são feitas regularmente. Cada unidade de trabalho, seja um bug ou feature, é feita através de uma branch criada a partir da main. Depois que o trabalho é concluído na branch, ele é revisado e testado antes de realizar o merge na main e enviado à produção.
+
+
+## 3. Cronograma
+
 | Título                                                    | Descrição                                                                  | Data          |
 |-----------------------------------------------------------|----------------------------------------------------------------------------|---------------|
 | Pré-Rastreabilidade                                       | Planejamento e RichPicture                                                 | 09/06 - 21/06 | 
@@ -29,3 +54,8 @@ Planilha com os horários de cada integrante disponível [aqui](https://docs.goo
 | ![Whatsapp_logo](../assets/logos/Whatsapp.png) | [Whatsapp](https://web.whatsapp.com/) | Ferramenta de comunicação instantânea entre os integrantes |
 | ![VSCode_logo](../assets/logos/VisualStudioCode.png) | [VSCode](https://code.visualstudio.com/) | Editor de código destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![Pycharm_logo](../assets/logos/Pycharm.png) | [PyCharm](https://www.jetbrains.com/pycharm/) | Ambiente de desenvolvimento destinado ao desenvolvimento de aplicações com controle Git incorporado |
+
+## 6. Referências Bibliograficas
+> Extreme Programming – Conceitos e Práticas. Disponível em: <a href= "https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498">https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498</a><br> Acesso em: 28 de junho de 2022
+
+> Git Workflow: o que é e principais tipos. Disponível em: <a href= "https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe">https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe</a><br> Acesso em 28 de junho de 2022
