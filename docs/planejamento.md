@@ -33,6 +33,7 @@ Será utilizado a metodologia de revisão por pares, ou seja, serao realizados p
 | Modelagem de Requisitos - Intencional ou Orientada à Meta | NFR Framework                                                              | 20/07 - 09/08 | 
 | Análise de Requisitos                                     | Verificação e validação                                                    | 10/08 - 16/08 | 
 | Pós-Rastreabilidade                                       | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 17/08 - 23/08 | 
+<h6 align = "center">Tabela 1: Cronograma geral</h6>
 
 ## 4. Tabela de atividades
 ### Sprint 1
@@ -46,6 +47,7 @@ Será utilizado a metodologia de revisão por pares, ou seja, serao realizados p
 | Descrição das ferramentas utilizadas |    [Christian Fleury](https://github.com/chfleury)       | [Matheus Costa](https://github.com/mc-gomes) |  28/06              |
 | Criação do documento "Metodologias" | Todos |    Todos   |  28/06           |
 | Gravação da apresentação 1  | Todos         | Todos           | 29/06           |
+<h6 align = "center">Tabela 2: Sprint 1</h6>
 
 ### Sprint 2
 
@@ -58,6 +60,7 @@ Será utilizado a metodologia de revisão por pares, ou seja, serao realizados p
 |Brainstorming |Todos|Todos|11/07|
 |MoSCoW |[Thiago Siqueira](https://github.com/thgomes) e [Matheus Costa](https://github.com/mc-gomes)| [Christian Fleury](https://github.com/chfleury) e [Alex Gabriel](https://github.com/Gabriel-Axl)|11/07|
 |Gravação da apresentação 2|Todos |Todos|12/07|
+<h6 align = "center">Tabela 3: Sprint 2</h6>
 
 ## 5. Horários disponíveis dos integrantes
 Na seguinte tabela está representada a disponibilidade dos integrantes de acordo com cada horário, essa tabela tem o objetivo de determinar os melhores horários para reunião entre a equipe.
