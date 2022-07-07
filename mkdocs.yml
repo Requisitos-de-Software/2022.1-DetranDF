@@ -9,3 +9,5 @@ nav:
   - Planejamento: planejamento.md
   - Pré-Rastriabilidade:
     - Rich Picture: 'prerastreabilidade/richpicture.md'
+  - Elicitação:
+    - Personas: 'elicitação/persona.md'
