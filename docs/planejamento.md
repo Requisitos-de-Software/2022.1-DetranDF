@@ -21,7 +21,7 @@ Será utilizado a metodologia de revisão por pares, ou seja, serao realizados p
 É um fluxo de trabalho baseado em Branchs onde as implantações são feitas regularmente. Cada unidade de trabalho, seja um bug ou feature, é feita através de uma branch criada a partir da main. Depois que o trabalho é concluído na branch, ele é revisado e testado antes de realizar o merge na main e enviado à produção.
 
 
-## 3. Cronograma
+## 3. Cronograma geral
 
 | Título                                                    | Descrição                                                                  | Data          |
 |-----------------------------------------------------------|----------------------------------------------------------------------------|---------------|
@@ -33,15 +33,43 @@ Será utilizado a metodologia de revisão por pares, ou seja, serao realizados p
 | Modelagem de Requisitos - Intencional ou Orientada à Meta | NFR Framework                                                              | 20/07 - 09/08 | 
 | Análise de Requisitos                                     | Verificação e validação                                                    | 10/08 - 16/08 | 
 | Pós-Rastreabilidade                                       | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 17/08 - 23/08 | 
+<h6 align = "center">Tabela 1: Cronograma geral</h6>
 
-## 4. Horários disponíveis dos integrantes
+## 4. Tabela de atividades
+### Sprint 1
+
+| Tarefas         | Responsável   | Revisor         | Entrega Prevista |
+| --------------- | ------------- | --------------- | ---------------- |
+| Criação do documento "Sobre o projeto" |[ Arthur Henrique ](https://github.com/black258br)   | [Thiago Siqueira](https://github.com/thgomes)   | 20/06           |
+| Rich Picture | [Alex Gabriel](https://github.com/Gabriel-Axl) e [Matheus Costa](https://github.com/mc-gomes) |  [Paulo Henrique](https://github.com/paulohgontijoo) |  20/06            |
+| Implantação do GitHub Pages |   [Paulo Henrique](https://github.com/paulohgontijoo)    |  [ Arthur Henrique ](https://github.com/black258br)     | 25/06          |
+| Criação do cronograma      |  [Alex Gabriel](https://github.com/Gabriel-Axl)  |[Christian Fleury](https://github.com/chfleury)  | 28/06              |
+| Descrição das ferramentas utilizadas |    [Christian Fleury](https://github.com/chfleury)       | [Matheus Costa](https://github.com/mc-gomes) |  28/06              |
+| Criação do documento "Metodologias" | Todos |    Todos   |  28/06           |
+| Gravação da apresentação 1  | Todos         | Todos           | 29/06           |
+<h6 align = "center">Tabela 2: Sprint 1</h6>
+
+### Sprint 2
+
+| Tarefas         | Responsável   | Revisor         | Entrega Prevista |
+| --------------- | ------------- | --------------- | ---------------- |
+|Correções primeira entrega |Todos|Todos|07/07|
+|Criação do documento de personas|[Alex Gabriel](https://github.com/Gabriel-Axl) e [Paulo Henrique](https://github.com/paulohgontijoo) | [Thiago Siqueira](https://github.com/thgomes)|11/07|
+|Questionário |[ Arthur Henrique ](https://github.com/black258br)| [Paulo Henrique](https://github.com/paulohgontijoo)|11/07|
+| Introspecção | [Christian Fleury](https://github.com/chfleury)|[ Arthur Henrique ](https://github.com/black258br)|11/07|
+|Brainstorming |Todos|Todos|11/07|
+|MoSCoW |[Thiago Siqueira](https://github.com/thgomes) e [Matheus Costa](https://github.com/mc-gomes)| [Christian Fleury](https://github.com/chfleury) e [Alex Gabriel](https://github.com/Gabriel-Axl)|11/07|
+|Gravação da apresentação 2|Todos |Todos|12/07|
+<h6 align = "center">Tabela 3: Sprint 2</h6>
+
+## 5. Horários disponíveis dos integrantes
 Na seguinte tabela está representada a disponibilidade dos integrantes de acordo com cada horário, essa tabela tem o objetivo de determinar os melhores horários para reunião entre a equipe.
 
 ![horarios_disponiveis](../assets/horarios_disponiveis.png "Horários Disponíves")
 
 Planilha com os horários de cada integrante disponível [aqui](https://docs.google.com/spreadsheets/d/1VcyEOwIERyxX-N2xfmTZ8kjvRGureDUciLQ75cMS0U0/edit#gid=471964901).
 
-## 5. Ferramentas Utilizadas
+## 6. Ferramentas Utilizadas
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
@@ -56,7 +84,7 @@ Planilha com os horários de cada integrante disponível [aqui](https://docs.goo
 | ![Pycharm_logo](../assets/logos/Pycharm.png) | [PyCharm](https://www.jetbrains.com/pycharm/) | Ambiente de desenvolvimento destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![Teams_logo](../assets/logos/Teams.png) | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) | Plataforma usada para a gravação dos vídeos de apresentação do projeto |
 
-## 6. Referências Bibliograficas
+## 7. Referências Bibliograficas
 > Extreme Programming – Conceitos e Práticas. Disponível em: <a href= "https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498">https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498</a><br> Acesso em: 28 de junho de 2022
 
 > Git Workflow: o que é e principais tipos. Disponível em: <a href= "https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe">https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe</a><br> Acesso em 28 de junho de 2022
