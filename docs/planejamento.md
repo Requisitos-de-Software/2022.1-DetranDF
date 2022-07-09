@@ -60,3 +60,12 @@ Planilha com os horários de cada integrante disponível [aqui](https://docs.goo
 > Extreme Programming – Conceitos e Práticas. Disponível em: <a href= "https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498">https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498</a><br> Acesso em: 28 de junho de 2022
 
 > Git Workflow: o que é e principais tipos. Disponível em: <a href= "https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe">https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe</a><br> Acesso em 28 de junho de 2022
+
+## 7. Histórico de Versão
+
+|  Versão   | Data | Descrição            | Autor            | Revisor |
+|-----------|------|----------------------|------------------|---------|
+|<center>0.1|28/06 |Criação da pagina     | Alex e Christian | Matheus |
+|<center>0.2|29/06 |Adição da metodologia | Todos            | Todos   |
+|<center>0.3|29/06 |Adição das ferramentas| Christian        | Matheus |
+|<center>0.4|05/07 |Correção do cronograma| Alex             | Arthur  |
