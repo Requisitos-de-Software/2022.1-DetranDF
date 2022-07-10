@@ -3,12 +3,12 @@
 
 ## Versão 0.1
 <img src="\images\richpictures\richpictureM.jpeg"/>
-<h6 align = "center">imagem 1: Rich picture v0.1</h6>
+<h6 align = "center">Imagem 1: Rich picture v0.1</h6>
 <br></br>
 
 ## Versão 0.2
 <img src="\images\richpictures\richpictureM2.jpeg"/>
-<h6 align = "center">imagem 2: Rich picture v0.2</h6>
+<h6 align = "center">Imagem 2: Rich picture v0.2</h6>
 <br></br>
 
 

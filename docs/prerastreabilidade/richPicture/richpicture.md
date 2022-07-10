@@ -10,7 +10,7 @@ A equipe fez uma análise do funcionamento do aplicativo do Detran-DF e, após a
 Para visualizar as outras versões feitas pela equipe, [clique aqui](versoesRichPicture/outrasVersoes.md).
 
 <img src="\images\richpictures\richpicturev1.png"/>
-<h6 align = "center">imagem 1: Rich picture</h6>
+<h6 align = "center">Imagem 1: Rich picture</h6>
 
 ### Legenda Rich Picture
 
