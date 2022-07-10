@@ -7,5 +7,5 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: planejamento.md
-  - Pré-Rastriabilidade:
-    - Rich Picture: 'prerastreabilidade/richpicture.md'
+  - Pré-Rastreabilidade:
+    - Rich Picture: prerastreabilidade/richPicture/richpicture.md
