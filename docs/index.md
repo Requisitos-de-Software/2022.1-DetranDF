@@ -30,6 +30,6 @@ A proposta do aplicativo DetranDF é ampliar o acesso aos serviços oferecidos p
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
-|<center>0.1|25/06 |Criação da pagina    | Arthur | Thiago |
-|<center>0.2|28/06 |Atualização da pagina| Arthur | Thiago |
-|<center>0.3|09/07 |Atualização da pagina| Arthur | Alex   |
+|<center>0.1| 25/06/2022 |Criação da pagina    | Arthur | Thiago |
+|<center>0.2| 28/06/2022 |Atualização da pagina| Arthur | Thiago |
+|<center>0.3| 09/07/2022 |Atualização da pagina| Arthur | Alex   |

@@ -65,7 +65,7 @@ Planilha com os horários de cada integrante disponível [aqui](https://docs.goo
 
 |  Versão   | Data | Descrição            | Autor            | Revisor |
 |-----------|------|----------------------|------------------|---------|
-|<center>0.1|28/06 |Criação da pagina     | Alex e Christian | Matheus |
-|<center>0.2|29/06 |Adição da metodologia | Todos            | Todos   |
-|<center>0.3|29/06 |Adição das ferramentas| Christian        | Matheus |
-|<center>0.4|05/07 |Correção do cronograma| Alex             | Arthur  |
+|<center>0.1| 28/06/2022 |Criação da pagina     | Alex e Christian | Matheus |
+|<center>0.2| 29/06/2022 |Adição da metodologia | Todos            | Todos   |
+|<center>0.3| 29/06/2022 |Adição das ferramentas| Christian        | Matheus |
+|<center>0.4| 05/07/2022 |Correção do cronograma| Alex             | Arthur  |
