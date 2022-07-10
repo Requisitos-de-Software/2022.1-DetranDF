@@ -19,6 +19,6 @@ O rich-picture é um desenho de uma situação que ilustra os principais element
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
 |-----------|------|---------------------|--------|--------|
-|<center>0.1| 28/06/2022 |Criação da pagina    | Arthur | Thiago |
+|<center>0.1| 28/06/2022 |Criação da página    | Arthur | Thiago |
 |<center>0.2| 28/06/2022 |Adição de novas versões| Arthur | Thiago |
 |<center>0.3| 28/06/2022 |Correção das Versões| Arthur | Thiago |
