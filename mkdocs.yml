@@ -1,6 +1,6 @@
 site_name: Detran-DF
 theme:
-  name: 'material'
+  name: 'readthedocs'
   logo: 'images/detrandf_logo.png'
   favicon: 'images/detrandf_logo.png'
   language: 'pt'
@@ -9,3 +9,5 @@ nav:
   - Planejamento: planejamento.md
   - Pré-Rastreabilidade:
     - Rich Picture: prerastreabilidade/richPicture/richpicture.md
+  - Elicitação:
+    - Priorização: elicitacao/priorizacao/moscow.md
