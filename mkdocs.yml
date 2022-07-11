@@ -9,3 +9,6 @@ nav:
   - Planejamento: planejamento.md
   - Pré-Rastreabilidade:
     - Rich Picture: prerastreabilidade/richPicture/richpicture.md
+  - Elicitação:
+    - Técnicas:
+      - Introspecção: 'elicitação/introspeccao.md' 
