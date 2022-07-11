@@ -7,14 +7,14 @@ A introspecção é uma técnica de elicitação de requisitos que se baseia em 
 | ID | Requisitos | 
 |:--:|:--:|
 | IF 01 | O usuário deve ser capaz de se registrar no aplicativo | 
-| IF 01 | O usuário deve ser capaz de fazer o login na sua conta | 
-| IF 02 | O usuário deve ser capaz de visualizar sua CNH eletrônica | 
-| IF 03 | O usuário deve ser capaz de visualizar suas multas | 
-| IF 04 | O usuário deve ser capaz de consultar os pontos da carteira | 
-| IF 05 | O usuário deve ser capaz de fazer um agendamento de atendimento presencial | 
-| IF 06 | O usuário deve ser capaz de encontrar os números de contato do Detran | 
-| IF 07 | O usuário deve ser capaz de solicitar 2ª via da CNH | 
-| IF 08 | O usuário deve ser capaz de gerar boletos para pagar suas multas | 
+| IF 02 | O usuário deve ser capaz de fazer o login na sua conta | 
+| IF 03 | O usuário deve ser capaz de visualizar sua CNH eletrônica | 
+| IF 04 | O usuário deve ser capaz de visualizar suas multas | 
+| IF 05 | O usuário deve ser capaz de consultar os pontos da carteira | 
+| IF 06 | O usuário deve ser capaz de fazer um agendamento de atendimento presencial | 
+| IF 07 | O usuário deve ser capaz de encontrar os números de contato do Detran | 
+| IF 08 | O usuário deve ser capaz de solicitar 2ª via da CNH | 
+| IF 09 | O usuário deve ser capaz de gerar boletos para pagar suas multas | 
 
 ## 3. Requisitos Não-Funcionais
 | ID | Requisitos | 
