@@ -77,5 +77,5 @@ mais abrangente. </p>
 ## 4.Histórico de Versão
 | Versão | Data       | Descrição                        | Autor         |
 |--------|------------|----------------------------------|---------------|
-| 1.0    | 07/07/2022 | Criação do documento             | Alves         |
+| 1.0    | 07/07/2022 | Criação do documento             | Alex Gabriel  |
 | 2.0    | 11/07/2022 | Adição de persona e anti-persona | Paulo Gontijo |
