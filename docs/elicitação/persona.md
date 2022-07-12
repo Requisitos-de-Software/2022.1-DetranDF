@@ -74,4 +74,8 @@ mais abrangente. </p>
 ><p style="text-align: justify">As fotos das personas foram retiradas do site <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. <b>Acesso em:</b> 07 de julho de 2022.</p>
 >VIANNA, Maurício. et al. <b>DESING THINKING inovações em negócios.</b> Rio de janeiro. <b>MJV Press.</b> Abril 2012. página 80.
 
-## 4.Histórico de versões
+## 4.Histórico de Versão
+| Versão | Data       | Descrição                        | Autor         |
+|--------|------------|----------------------------------|---------------|
+| 1.0    | 07/07/2022 | Criação do documento             | Alves         |
+| 2.0    | 11/07/2022 | Adição de persona e anti-persona | Paulo Gontijo |
