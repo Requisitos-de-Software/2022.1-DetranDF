@@ -11,5 +11,6 @@ nav:
     - Rich Picture: prerastreabilidade/richPicture/richpicture.md
   - Elicitação:
     - Técnicas:
-      - Introspecção: 'elicitação/introspeccao.md' 
+      - Introspecção: 'elicitação/introspeccao.md'
       - Questionário: 'elicitação/questionario.md'
+      - Personas: 'elicitação/persona.md'
