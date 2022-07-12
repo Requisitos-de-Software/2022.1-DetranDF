@@ -7,7 +7,7 @@
 ## 1. Sobre o projeto
 Repositório destinado ao grupo 4 da disciplina de Requisitos de Software, ofertada pela Universidade de Brasília, ministrada pelo professor André Barros de Sales. Ele conterá informações e apresentações sobre os requisitos do aplicativo do governo Detran-DF.
 
-Projeto foi realizado no campus do Gama (FGA) durante o periodo de 2022.1.
+O projeto foi realizado no campus do Gama (FGA) durante o período de 2022.1.
 
 ## 2. Sobre o Aplicativo
 A proposta do aplicativo Detran-DF é ampliar o acesso aos serviços oferecidos pelo Departamento. Por meio do celular, o cidadão pode realizar algumas operações, como consultar os pontos da CNH, a situação do veículo e acompanhar os resultados de bancas examinadoras. É possível também conferir o endereço dos postos de atendimento da Autarquia e quais as clínicas credenciadas, entre outros.
