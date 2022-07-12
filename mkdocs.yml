@@ -7,7 +7,10 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: planejamento.md
-  - Pré-Rastriabilidade:
-    - Rich Picture: 'prerastreabilidade/richpicture.md'
+  - Pré-Rastreabilidade:
+    - Rich Picture: prerastreabilidade/richPicture/richpicture.md
   - Elicitação:
-    - Personas: 'elicitação/persona.md'
+    - Técnicas:
+      - Introspecção: 'elicitação/introspeccao.md'
+      - Questionário: 'elicitação/questionario.md'
+      - Personas: 'elicitação/persona.md'
