@@ -10,4 +10,8 @@ nav:
   - Pré-Rastreabilidade:
     - Rich Picture: prerastreabilidade/richPicture/richpicture.md
   - Elicitação:
+    - Técnicas:
+      - Introspecção: 'elicitação/introspeccao.md'
+      - Questionário: 'elicitação/questionario.md'
+      - Personas: 'elicitação/persona.md'
     - Priorização: elicitacao/priorizacao/moscow.md
