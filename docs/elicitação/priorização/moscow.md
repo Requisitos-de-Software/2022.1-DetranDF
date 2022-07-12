@@ -28,3 +28,10 @@ MoSCoW é uma técnica de priorização de requisitos que consiste na divisão d
 | INF 01 | O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS | must |
 | INF 02 | O aplicativo deve ter uma latência máxima de 1000ms por requisição | must |
 | INF 03 | O aplicativo deve estar disponível 24h | must |
+
+## 5. Histórico de versão
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 0.1    | 11/07/2022 | Criação do documento | Thiago Siqueira Gomes |
+| 0.2    | 11/07/2022 | Adição de introdução | Thiago Siqueira Gomes |
+| 0.2    | 11/07/2022 | Adição de MoSCoW de requisitos da introspecção | Thiago Siqueira Gomes |
