@@ -8,4 +8,7 @@ nav:
   - Início: index.md
   - Planejamento: planejamento.md
   - Pré-Rastreabilidade:
-    - Rich Picture: 'prerastreabilidade/richpicture.md'
+    - Rich Picture: prerastreabilidade/richPicture/richpicture.md
+  - Elicitação:
+    - Técnicas:
+      - Questionário: 'elicitação/questionario.md'
