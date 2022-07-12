@@ -2,23 +2,23 @@
 Arthur Henrique - <b>Carteira Digital</b><br>
 Alex Gabriel - <b>Agendamentos</b><br>
 Christian Fleury - <b>MEI</b><br>
-Matheus Costa - <b>DetranDF</b><br>
+Matheus Costa - <b>Detran-DF</b><br>
 Paulo Henrique - <b>ConecteSuS</b><br>
 Thiago Gomes - <b>Carteira Digital</b><br>
 
 ## 2. Metodologia
 
-### 2.1 Extreme Programming (XP)
-É uma metodologia ágil com foco em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunicação, feedback e coragem que nos submetem ao reconhecimento de que XP é uma metodologia baseada em comportamentos e atitudes. Dessa forma, ela propicia que o projeto seja executado dentro do prazo e do orçamento, fazendo então com que o cliente fique satisfeito e a equipe de desenvolvimento não fique maluca por causa do projeto.
+### 2.1. Extreme Programming (XP)
+É uma metodologia ágil com foco em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunicação, _feedback_ e coragem que nos submetem ao reconhecimento de que XP é uma metodologia baseada em comportamentos e atitudes. Dessa forma, ela propicia que o projeto seja executado dentro do prazo e do orçamento, fazendo então com que o cliente fique satisfeito e a equipe de desenvolvimento não "fique maluca" por causa do projeto.
 
-### 2.1 Sprints Semanais
-O projeto utilizará de "sprints" semanais. No total teremos 14 "sprints" podendo ser maiores ou menores de acordo com o nivel de demanda e ao final de cada uma será realizado uma avaliação.
+### 2.2. Sprints Semanais
+O projeto utilizará de _Sprints_ semanais. No total teremos 14 _Sprints_, podendo ser maiores ou menores de acordo com o nível de demanda, e ao final de cada uma será realizada uma avaliação.
 
-### 2.2 Revisão por pares (Pull Requests)
-Será utilizado a metodologia de revisão por pares, ou seja, serao realizados pull requests da branch "dev" ao final das atividades da "sprint" para a "main" podendo assim ter uma segurança contra possiveis problemas inseridos no projeto principal
+### 2.3. Revisão por pares (Pull Requests)
+Será utilizada a metodologia de Revisão por Pares, ou seja, após uma abertura de _Pull Request_ (PR), ao menos dois membros da equipe revisarão as alterações contidas na branch ao qual se deseja realizar a operação de merge. Essa revisão se torna essencial ainda mais ao final das _Sprints_, em que a solicitação do PR se dará entre a branch de desenvolvimento (no nosso caso "dev") e a branch mais estável "main", contribuindo com uma maior segurança contra possíveis problemas inseridos no projeto principal.
 
-### 2.3 Git Work-Flow
-É um fluxo de trabalho baseado em Branchs onde as implantações são feitas regularmente. Cada unidade de trabalho, seja um bug ou feature, é feita através de uma branch criada a partir da main. Depois que o trabalho é concluído na branch, ele é revisado e testado antes de realizar o merge na main e enviado à produção.
+### 2.4. Git Work-Flow
+É um fluxo de trabalho baseado em Branchs onde as implantações são feitas regularmente. Cada unidade de trabalho, seja um bug ou uma feature, é feita através de uma branch criada a partir da main. Depois que o trabalho é concluído na branch, ele é revisado e testado antes de realizar o merge na main e enviado à produção.
 
 
 ## 3. Cronograma geral
@@ -33,6 +33,7 @@ Será utilizado a metodologia de revisão por pares, ou seja, serao realizados p
 | Modelagem de Requisitos - Intencional ou Orientada à Meta | NFR Framework                                                              | 20/07 - 09/08 | 
 | Análise de Requisitos                                     | Verificação e validação                                                    | 10/08 - 16/08 | 
 | Pós-Rastreabilidade                                       | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 17/08 - 23/08 | 
+
 <h6 align = "center">Tabela 1: Cronograma geral</h6>
 
 ## 4. Tabela de atividades

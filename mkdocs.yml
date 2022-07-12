@@ -12,3 +12,4 @@ nav:
   - Elicitação:
     - Técnicas:
       - Introspecção: 'elicitação/introspeccao.md' 
+      - Questionário: 'elicitação/questionario.md'
