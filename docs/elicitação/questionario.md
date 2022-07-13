@@ -89,13 +89,13 @@ Apesar de não conseguirem na maioria nao resolver sempre suas necessidades, gra
 ## 4. Requisitos elicitados
 Segue tabela com os requisitos levantados a partir dos questionamentos:
 
-|   Número   |                 Requisito                  |      Tipo      |
-|:----------:|:------------------------------------------:|:--------------:|
-| <center>1  | Deverá ser possível acessar a habilitação  |   Funcional    |
-| <center>2  |  Deverá ser possível consultar o veículo   |   Funcional    |
-| <center>3  |  Deverá ser possível consultar infrações   |   Funcional    |
-| <center>4  |  Deverá ser possível agendar atendimentos  |   Funcional    |
-| <center>5  |      Aplicativo deverá funcionar 24/7      | Não Funcional  |
+| Número |                 Requisito                 |
+|:------:|:-----------------------------------------:|
+|   1    | Deverá ser possível acessar a habilitação |
+|   2    |  Deverá ser possível consultar o veículo  |
+|   3    |  Deverá ser possível consultar infrações  |
+|   4    | Deverá ser possível agendar atendimentos  |
+|   5    |     Aplicativo deverá funcionar 24/7      |
 <h6 align = "center">Tabela 1: Requisitos elicitados</h6>
 
 ## 5. Histórico de Versão
