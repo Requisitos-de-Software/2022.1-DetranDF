@@ -43,5 +43,12 @@ Neste tópico serão apresentadas as categorizações de prioridade dos requisit
 | 0.2.1    | 11/07/2022 | Adição da classificação MoSCoW dos requisitos da Introspecção | Thiago Siqueira Gomes | Matheus Costa |
 | 0.2.2    | 12/07/2022 | Adicão do tópico Metodologia | Thiago Siqueira Gomes | Matheus Costa |
 | 0.2.3    | 12/07/2022 | Revisão e correção ortográfica em alguns textos | Matheus Costa | Thiago Gomes |
-| 0.3    | 12/07/2022 | Revisão e correção ortográfica em alguns textos | Matheus Costa | Thiago Gomes |
+| 0.3    | 12/07/2022 | Adição de Referências | Matheus Costa | Thiago Gomes |
 
+## Referências
+
+> BECKER, Alice. **Aprenda como o método MoSCoW poderá ajudá-lo a priorizar as tarefas da sua empresa**. Voitto, 2020. Disponível em: [https://www.voitto.com.br/blog/artigo/metodo-moscow](https://www.voitto.com.br/blog/artigo/metodo-moscow). Acesso em: 12 de jul. de 2022.
+
+> CARVALHO, Henrique. **O framework de priorizacao: MoSCoW**. Vida de produto, 2019. Disponível em: [https://vidadeproduto.com.br/framework-moscow/#O_framework_MoSCoW](https://vidadeproduto.com.br/framework-moscow/#O_framework_MoSCoW). Acesso em: 12 de jul. de 2022.
+
+> PIRES, Rafael. **Aprenda a usar a técnica MoSCoW nos projetos da sua agência!**. Rockcontent, 2019. Disponível em: [https://rockcontent.com/br/blog/metodo-moscow/](https://rockcontent.com/br/blog/metodo-moscow/#:~:text=O%20que%20%C3%A9%20a%20t%C3%A9cnica%20MoSCoW%3F,elas%20atribuem%20a%20cada%20requisito.). Acesso em: 12 de jul. de 2022.
