@@ -12,21 +12,23 @@ Como resultado da introspecção, foram elicitados 12 requisitos, sendo eles 9 f
 
 | Número | Requisitos Funcionais | 
 |:--:|:--:|
-| <center>1 | O usuário deve ser capaz de se registrar no aplicativo | 
-| <center>2 | O usuário deve ser capaz de fazer o login na sua conta | 
-| <center>3 | O usuário deve ser capaz de visualizar sua CNH eletrônica | 
-| <center>4 | O usuário deve ser capaz de visualizar suas multas | 
-| <center>5 | O usuário deve ser capaz de consultar os pontos da carteira | 
-| <center>6 | O usuário deve ser capaz de fazer um agendamento de atendimento presencial | 
-| <center>7 | O usuário deve ser capaz de encontrar os números de contato do Detran | 
-| <center>8 | O usuário deve ser capaz de solicitar 2ª via da CNH | 
-| <center>9 | O usuário deve ser capaz de gerar boletos para pagar suas multas | 
+| IF 01 | O usuário deve ser capaz de se registrar no aplicativo | 
+| IF 02 | O usuário deve ser capaz de fazer o login na sua conta | 
+| IF 03 | O usuário deve ser capaz de visualizar sua CNH eletrônica | 
+| IF 04 | O usuário deve ser capaz de visualizar suas multas | 
+| IF 05 | O usuário deve ser capaz de consultar os pontos da carteira | 
+| IF 06 | O usuário deve ser capaz de fazer um agendamento de atendimento presencial | 
+| IF 07 | O usuário deve ser capaz de encontrar os números de contato do Detran | 
+| IF 08 | O usuário deve ser capaz de solicitar 2ª via da CNH | 
+| IF 09 | O usuário deve ser capaz de gerar boletos para pagar suas multas | 
+<h6 align = "center">Tabela 1: Requisitos funcionais</h6>
 
-| Número | Requisitos Não-Funcionais | 
+| ID | Requisitos Não-Funcionais | 
 |:--:|:--:|
-| <center>1 | O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS |
-| <center>2 | O aplicativo deve ter uma latência máxima de 1000ms por requisição |
-| <center>3 | O aplicativo deve estar disponível 24h |
+| INF 01 | O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS |
+| INF 02 | O aplicativo deve ter uma latência máxima de 1000ms por requisição |
+| INF 03 | O aplicativo deve estar disponível 24h |
+<h6 align = "center">Tabela 2: Requisitos não-funcionais</h6>
 
 ## 5. Bibliografia
 Elicitação de Requisitos. PUC-Rio. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>. Acesso em: 11 de julho de 2022.
@@ -34,7 +36,8 @@ Elicitação de Requisitos. PUC-Rio. Disponível em: <https://www.maxwell.vrac.p
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
 
 ## 6. Histórico de versão
-| Versão | Data       | Descrição                                           | Autor        | Revisor      |
-| ------ | ---------- | --------------------------------------------------- | ------------ | ------------ |
-| 0.1    | 11/07/2022 | Criação do documento | Christian | Arthur | 
-| 0.2    | 12/07/2022 | Adicionado metodologia | Christian | Arthur | 
+| Versão |     Data     |           Descrição            |   Autor   | Revisor |
+|:------:|:------------:|:------------------------------:|:---------:|:-------:|
+|  0.1   |  11/07/2022  |      Criação do documento      | Christian | Arthur  | 
+|  0.2   |  12/07/2022  |     Adicionado metodologia     | Christian | Arthur  | 
+|  0.3   |  12/07/2022  | Correções de legendas e layout |   Paulo   |  Todos  | 
