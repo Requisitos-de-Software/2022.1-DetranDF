@@ -19,68 +19,105 @@ mesmas.
 Os resultados foram segmentados em tópicos/temas que a aplicação tem ou deveria ter. Seguem os resultados abaixo:
 
 ### 3.1. Veículos
-  * Multas
-  * Documento
-  * Transferência eletrônico (novo)
-  * Dados do veículo
-    * Consulta placa
-  * Emitir CRLV
-  * Alterar endereço do veículo
-  * Emitir ATPV
-  * Pré-transferência às agências
-  * Agendamento de vistoria
-    * Inclusão gravame
-    * Alteração característica
-    
+Abaixo segue a tabela com os requisitos levantados pelo domínio **Veículos**:
+<center>
+
+| Número |                           Requisitos levantados                           |
+|:------:|:-------------------------------------------------------------------------:|
+|   1    |           Deve ser possível consultar informações sobre multas            |
+|   2    |         Deve ser possível consultar informações sobre documentos          |
+|   3    | Deve ser possível realizar transferências de veículos de forma eletrônica |
+|   4    |    Deve ser possível consultar informações históricas sobre o veículo     |
+|   5    |              Deve ser possível emitir eletrônicamente o CRLV              |
+|   6    |      Deve ser possível alterar o endereço do proprietário do veículo      |
+|   7    |                      Deve ser possível emitir o ATPV                      |
+|   8    |              Deve ser possível agendar vistorias veiculares               |
+
+</center>
+<h6 align = "center">Tabela 1: Requisitos Veículos</h6>
+
 ### 3.2. Habilitação
-* Emitir CNH eletrônica
-* Consulta pontuação
-* Bloqueios
-* Ocorrências
-    * Restrições
-    * Óculos
-    * Equipamento no carro
-    * PCD
-* Nada consta
-* Consultar processo de habilitação (simples e ruim)
-* Solicitar CNH definitiva (ainda não funciona)
-* Solicitar 2a via CNH
-* Autorização de estacionamento para idoso
-* Mudar endereço CNH
+Abaixo segue a tabela com os requisitos levantados pelo domínio **Habilitação**:
+<center>
+
+| Número |                               Requisitos levantados                               |
+|:------:|:---------------------------------------------------------------------------------:|
+|   1    |                      Deve ser possível emitir CNH eletrônica                      |
+|   2    |     Deve ser possível consultar pontuação de infrações associadas ao condutor     |
+|   3    |              Deve ser possível consultar informações sobre bloqueios              |
+|   4    |             Deve ser possível consultar informações sobre ocorrências             |
+|   5    |                 Deve ser possível emitir documento de nada consta                 |
+|   6    | Deve ser possível consultar informações sobre processo de obtenção da habilitação |
+|   7    |                    Deve ser possível solicitar CNH definitiva                     |
+|   8    |                     Deve ser possível solicitar 2ª via de CNH                     |
+|   9    |       Deve ser possível solicitar autorização de estacionamento para idosos       |
+|   10   |        Deve ser possível solicitar autorização de estacionamento para PCDs        |
+|   11   |            Deve ser possível modificar endereço do proprietário da CNH            |
+
+</center>
+<h6 align = "center">Tabela 2: Requisitos Habilitação</h6>
 
 ### 3.3. Infrações
-* Não da para consultar
-* Transferência de pontuações
-* Transferência de titularidade da multa (não existe)
-* Pagamento (não existe)
-* Converter autuação e penalidade
+Abaixo segue a tabela com os requisitos levantados pelo domínio **Infrações**:
+<center>
+
+| Número |               Requisitos levantados                |
+|:------:|:--------------------------------------------------:|
+|   1    |       Deve ser possível consultar infrações        |
+|   2    |  Deve ser possível transferir pontos de infrações  |
+|   3    | Deve ser possível transferir titularidade de multa |
+|   4    |   Deve ser possível realizar pagamento de multa    |
+
+</center>
+<h6 align = "center">Tabela 3: Requisitos Infrações</h6>
 
 ### 3.4. Agendamento
-* Marcar agendamento presencial
-    * Selecionar o serviço
-    * Escolher a data
-    * Escolher a unidade
-    * Escolher a hora
-    * Localização da unidade (sugestão)
-    * Contato com órgão (sugestão)
+Abaixo segue a tabela com os requisitos levantados pelo domínio **Agendamento**:
+<center>
+
+| Número |               Requisitos levantados               |
+|:------:|:-------------------------------------------------:|
+|   1    |        Deve ser possível agendar serviços         |
+|   2    |  Deve ser possível escolher data de agendamento   |
+|   3    | Deve ser possível escolher unidade de agendamento |
+|   4    |  Deve ser possível escolher hora de agendamento   |
+|   5    |  Deve ser possível consulta endereço de unidades  |
+|   6    | Deve ser possível realizar contato com ouvidoria  |
+
+</center>
+<h6 align = "center">Tabela 4: Requisitos Agendamento</h6>
 
 ### 3.5. Cadastro
-* Alteração de e-mail
-* Troca de senha
-* Reenvio de e-mail de validação
-* Primeiro acesso
+Abaixo segue a tabela com os requisitos levantados pelo domínio **Cadastro**:
+<center>
+
+| Número |             Requisitos levantados              |
+|:------:|:----------------------------------------------:|
+|   1    |        Deve ser possível alterar email         |
+|   2    |        Deve ser possível alterar senha         |
+|   3    | Deve ser possível reenviar e-mail de validação |
+
+</center>
+<h6 align = "center">Tabela 5: Requisitos Cadastro</h6>
 
 ### 3.6. Login
-* Biometria
-* Cpf/Cnpj
-* Senha
+Abaixo segue a tabela com os requisitos levantados pelo domínio **Login**:
+<center>
 
+| Número |         Requisitos levantados         |
+|:------:|:-------------------------------------:|
+|   1    | Deve ser possível cadastrar biometria |
+|   1    | Deve ser possível cadastrar Cpf/Cnpj  |
+|   1    | Deve ser possível cadastrar uma senha |
 
-## 4. Referências Bibliográficas
-> [Definindo Escopo em Projetos de Software. São Paulo: Novatec. 2015.](https://pt.wikipedia.org/wiki/Brainstorming)
-> Acessado em 12 de Julho de 2022. 
+</center>
+<h6 align = "center">Tabela 6: Requisitos Login</h6>
 
-## 5. Histórico de versões
+## Referências
+> [Definindo Escopo em Projetos de Software. São Paulo: Novatec. 2015](https://pt.wikipedia.org/wiki/Brainstorming). Acesso em 12 de jul. de 2022. 
+
+***
+## Histórico de Versão
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|

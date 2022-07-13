@@ -22,6 +22,7 @@ Será utilizada a metodologia de Revisão por Pares, ou seja, após uma abertura
 
 
 ## 3. Cronograma geral
+Abaixo segue a tabela de planejamento do cronograma de atividades gerais:
 
 | Título                                                    | Descrição                                                                  | Data          |
 |-----------------------------------------------------------|----------------------------------------------------------------------------|---------------|
@@ -37,6 +38,7 @@ Será utilizada a metodologia de Revisão por Pares, ou seja, após uma abertura
 <h6 align = "center">Tabela 1: Cronograma geral</h6>
 
 ## 4. Tabela de atividades
+Abaixo seguem tabelas de atividades de acordo com suas reespectivas sprints:
 ### Sprint 1
 
 | Tarefas         | Responsável   | Revisor         | Entrega Prevista |
@@ -71,6 +73,7 @@ Na seguinte tabela está representada a disponibilidade dos integrantes de acord
 Planilha com os horários de cada integrante disponível [aqui](https://docs.google.com/spreadsheets/d/1VcyEOwIERyxX-N2xfmTZ8kjvRGureDUciLQ75cMS0U0/edit#gid=471964901).
 
 ## 6. Ferramentas Utilizadas
+Abaixo segue a tabela com a relação das ferramentas utilizadas, pelo nossa equipe, no projeto:
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
@@ -86,12 +89,13 @@ Planilha com os horários de cada integrante disponível [aqui](https://docs.goo
 | ![Teams_logo](../assets/logos/Teams.png) | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) | Plataforma usada para a gravação dos vídeos de apresentação do projeto |
 <h6 align = "center">Tabela 5: Ferramentas utilizadas</h6>
 
-## 7. Referências Bibliograficas
+## Referências
 > Extreme Programming – Conceitos e Práticas. Disponível em: <a href= "https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498">https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498</a><br> Acesso em: 28 de junho de 2022
 
 > Git Workflow: o que é e principais tipos. Disponível em: <a href= "https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe">https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe</a><br> Acesso em 28 de junho de 2022
 
-## 7. Histórico de Versão
+***
+## Histórico de Versão
 
 | Versão      | Data       | Descrição                         | Autor     | Revisor |
 |-------------|------------|-----------------------------------|-----------|---------|
