@@ -10,7 +10,7 @@ Para realizarmos essa técnica, a equipe definiu um integrante para fazer a intr
 Como resultado da introspecção, foram elicitados 12 requisitos, sendo eles 9 funcionais e 3 não funcionais.
 
 
-| ID | Requisitos Funcionais | 
+| Número | Requisitos Funcionais | 
 |:--:|:--:|
 | IF 01 | O usuário deve ser capaz de se registrar no aplicativo | 
 | IF 02 | O usuário deve ser capaz de fazer o login na sua conta | 
