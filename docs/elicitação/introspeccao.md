@@ -4,10 +4,10 @@
 A introspecção é uma técnica de elicitação de requisitos que se baseia em imaginar que tipo de sistema você iria querer se estivesse executando esta tarefa, utilizando este equipamento, entre outros. Ou seja, imaginar que propriedades um sistema deveria possuir de forma a obter sucesso.
 
 ## 2. Metodologia
-Para realizarmos essa técnica, a equipe definiu um integrante para fazer a introspecção. Esse integrante estudou mais a fundo sobre a técnica. Em seguida, este integrante, individualmente, realizou uma introspecção.
+Para realizarmos essa técnica, a equipe designou ao integrante Christian a tarefa de fazer a introspecção. Esse integrante estudou mais a fundo sobre a técnica e em seguida, realizou individualmente uma introspecção. 
 
 ## 3. Resultados
-Como resultado da introspecção, foram elicitados 12 requisitos, que podem ser observados na Tabela 1 abaixo.
+Como resultado da aplicação da técnica, foram elicitados 12 requisitos, que podem ser observados na Tabela 1 abaixo.
 
 
 | Número |                              Requisitos Levantados                              | 
