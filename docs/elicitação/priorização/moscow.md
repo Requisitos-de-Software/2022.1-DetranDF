@@ -44,18 +44,28 @@ Na Tabela 2 abaixo foram categorizados os requisitos não-funcionais elicitados 
 <h6 align = "center">Tabela 2: Requisitos não-funcionais Introspecção</h6>
 
 ### 3.2 Questionário
+#### Requisitos Funcionais
 
-Na Tabela 3 abaixo foram categorizados os requisitos elicitados por Questionários.
+Na Tabela 3 abaixo foram categorizados os requisitos funcionais elicitados por Questionários.
 
 | ID  | Requisitos                               | Prioridade         |
 |---------|-----------------------------------------|--------------|
-|<center>INF1|A interface deverá ser de fácil uso      | should |
-|<center>INF2|Deverá ser possível acessar a habilitação| must |
-|<center>INF3|Deverá ser possível consultar o veículo  | must |
-|<center>INF4|Deverá ser possível consultar infrações  | must |
-|<center>INF5|Deverá ser possível agendar atendimentos | must |
-|<center>INF6|Aplicativo deverá funcionar 24h        | should |
-<h6 align = "center">Tabela 3: Requisitos elicitados Questionário</h6>
+|<center>QF1|A interface deverá ser de fácil uso      | should |
+|<center>QF2|Deverá ser possível acessar a habilitação| must |
+|<center>QF3|Deverá ser possível consultar o veículo  | must |
+|<center>QF4|Deverá ser possível consultar infrações  | must |
+|<center>QF5|Deverá ser possível agendar atendimentos | must |
+|<center>QNF6|Aplicativo deverá funcionar 24h        | should |
+<h6 align = "center">Tabela 3: Requisitos funcionais elicitados Questionário</h6>
+
+#### Requisitos Funcionais
+
+Na Tabela 3 abaixo foram categorizados os requisitos não funcionais elicitados por Questionários.
+
+| ID  | Requisitos                               | Prioridade         |
+|---------|-----------------------------------------|--------------|
+|<center>QNF6|Aplicativo deverá funcionar 24h        | should |
+<h6 align = "center">Tabela 4: Requisitos não funcionais elicitados Questionário</h6>
 
 ## 4. Histórico de versão
 | Versão | Data       | Descrição                                           | Autor        | Revisor |
@@ -68,6 +78,8 @@ Na Tabela 3 abaixo foram categorizados os requisitos elicitados por Questionári
 | 0.6    | 12/07/2022 | Revisão e correção ortográfica em alguns textos | Matheus Costa | Thiago Gomes |
 | 0.7    | 12/07/2022 | Adição de Referências | Matheus Costa | Thiago Gomes |
 | 0.8    | 13/07/2022 | Adição da classificação MoSCoW dos requisitos de Questionários | Matheus Costa | Thiago Gomes |
+| 0.9    | 13/07/2022 | Separação de requisitos do Questionário entre funcionais e não funcionais | Matheus Costa | Thiago Gomes |
+
 
 ## Referências
 
