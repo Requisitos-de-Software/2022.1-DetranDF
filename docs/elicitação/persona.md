@@ -76,7 +76,7 @@ mais abrangente. </p>
 
 ***
 ## Histórico de Versão
-| Versão |     Data     |              Descrição               |      Autor      |
-|:------:|:------------:|:------------------------------------:|:---------------:|
-|  0.1   |  07/07/2022  |         Criação do documento         |  Alex Gabriel   |
-|  0.2   |  11/07/2022  |  Adição de persona 3 e anti-persona  |  Paulo Gontijo  |
+| Versão |     Data     |              Descrição               |      Autor      | Revisor |
+|:------:|:------------:|:------------------------------------:|:---------------:|:------:|
+|  0.1   |  07/07/2022  |         Criação do documento         |  Alex Gabriel   | Paulo Gontijo|
+|  0.2   |  11/07/2022  |  Adição de persona 3 e anti-persona  |  Paulo Gontijo  | Matheus Costa|

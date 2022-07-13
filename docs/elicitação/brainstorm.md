@@ -76,11 +76,11 @@ Os resultados foram segmentados em tópicos/temas que a aplicação tem ou dever
 * Senha
 
 
-## 4. Referências Bibliográficas
-> [Definindo Escopo em Projetos de Software. São Paulo: Novatec. 2015.](https://pt.wikipedia.org/wiki/Brainstorming)
-> Acessado em 12 de Julho de 2022. 
+## Referências
+> [Definindo Escopo em Projetos de Software. São Paulo: Novatec. 2015](https://pt.wikipedia.org/wiki/Brainstorming). Acesso em 12 de jul. de 2022. 
 
-## 5. Histórico de versões
+***
+## Histórico de Versão
 
 | Versão |    Data    |       Descrição       |     Autor     |    Revisor    |
 |:------:|:----------:|:---------------------:|:-------------:|:-------------:|
