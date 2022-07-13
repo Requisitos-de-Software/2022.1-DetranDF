@@ -87,4 +87,4 @@ RNF = Requisitos Não-Funcionais
 |  Versão   | Data       | Descrição           | Autor  | Revisor|
 |-----------|------------|---------------------|--------|--------|
 |<center>0.1| 12/07/2022 |Criação da página    | Arthur | Alex   |
-|<center>0.1| 13/07/2022 |Adição de requisitos do Brainstorm    | Thiago Siqueira Gomes | Alex   |
+|<center>0.2| 13/07/2022 |Adição de requisitos do Brainstorm    | Thiago Siqueira Gomes | Alex   |
