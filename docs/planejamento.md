@@ -22,6 +22,7 @@ Será utilizada a metodologia de Revisão por Pares, ou seja, após uma abertura
 
 
 ## 3. Cronograma geral
+Abaixo segue a tabela de planejamento do cronograma de atividades gerais:
 
 | Título                                                    | Descrição                                                                  | Data          |
 |-----------------------------------------------------------|----------------------------------------------------------------------------|---------------|
@@ -37,6 +38,7 @@ Será utilizada a metodologia de Revisão por Pares, ou seja, após uma abertura
 <h6 align = "center">Tabela 1: Cronograma geral</h6>
 
 ## 4. Tabela de atividades
+Abaixo seguem tabelas de atividades de acordo com suas reespectivas sprints:
 ### Sprint 1
 
 | Tarefas         | Responsável   | Revisor         | Entrega Prevista |
@@ -71,6 +73,7 @@ Na seguinte tabela está representada a disponibilidade dos integrantes de acord
 Planilha com os horários de cada integrante disponível [aqui](https://docs.google.com/spreadsheets/d/1VcyEOwIERyxX-N2xfmTZ8kjvRGureDUciLQ75cMS0U0/edit#gid=471964901).
 
 ## 6. Ferramentas Utilizadas
+Abaixo segue a tabela com a relação das ferramentas utilizadas, pelo nossa equipe, no projeto:
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|

@@ -15,6 +15,6 @@ nav:
       - Introspecção: 'elicitação/introspeccao.md'
       - Questionário: 'elicitação/questionario.md'
       - Personas: 'elicitação/persona.md'
-    - Priorização: 'elicitação/priorização/moscow.md'
     - Resultado: 'elicitação/resultado.md'
+    - Priorização: 'elicitação/priorização/moscow.md'
   - Apresentações: 'apresentacoes.md'

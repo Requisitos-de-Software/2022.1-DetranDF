@@ -13,6 +13,7 @@ O projeto foi realizado no campus do Gama (FGA) durante o período de 2022.1.
 A proposta do aplicativo Detran-DF é ampliar o acesso aos serviços oferecidos pelo Departamento. Por meio do celular, o cidadão pode realizar algumas operações, como consultar os pontos da CNH, a situação do veículo e acompanhar os resultados de bancas examinadoras. É possível também conferir o endereço dos postos de atendimento da Autarquia e quais as clínicas credenciadas, entre outros.
 
 ## 3. Equipe
+Abaixo segue a tabela com a relação dos alunos participantes do grupos e seus reespectivos usuários no Github:
 <center>
 
 |                                                | Membro           | Github                                              |
@@ -23,7 +24,7 @@ A proposta do aplicativo Detran-DF é ampliar o acesso aos serviços oferecidos 
 | <img src="./assets/matheus.png" width="100">   | Matheus Costa    | [mc-gomes](https://github.com/mc-gomes)             |
 | <img src="./assets/paulo.png" width="100">     | Paulo Henrique   | [paulohgontijoo](https://github.com/paulohgontijoo) |
 | <img src="./assets/thiago.png" width="100">    | Thiago Siqueira  | [thgomes](https://github.com/thgomes)               |
-
+<h6 align = "center">Tabela 1: Equipe</h6>
 </center>
 
 ## 4. Histórico de Versão
