@@ -17,7 +17,7 @@ Neste tópico serão apresentadas as categorizações de prioridade dos requisit
 
 #### Requisitos Funcionais
 
-Na Tabela 1 abaixo foram categorizados os requisitos funcionais.
+Na Tabela 1 abaixo foram categorizados os requisitos funcionais elicitados por Introspecção.
 
 | ID | Requisitos | Prioridade |
 |:--:|:--:|:--:|
@@ -34,7 +34,7 @@ Na Tabela 1 abaixo foram categorizados os requisitos funcionais.
 
 #### Requisitos Não-Funcionais
 
-Na Tabela 2 abaixo foram categorizados os requisitos não-funcionais.
+Na Tabela 2 abaixo foram categorizados os requisitos não-funcionais elicitados por Introspecção.
 
 | ID | Requisitos | Prioridade |
 |:--:|:--:|:--:|
@@ -42,6 +42,20 @@ Na Tabela 2 abaixo foram categorizados os requisitos não-funcionais.
 | INF 02 | O aplicativo deve ter uma latência máxima de 1000ms por requisição | must |
 | INF 03 | O aplicativo deve estar disponível 24h | must |
 <h6 align = "center">Tabela 2: Requisitos não-funcionais Introspecção</h6>
+
+### 3.2 Questionário
+
+Na Tabela 3 abaixo foram categorizados os requisitos elicitados por Questionários.
+
+| ID  | Requisitos                               | Prioridade         |
+|---------|-----------------------------------------|--------------|
+|<center>INF1|A interface deverá ser de fácil uso      | should |
+|<center>INF2|Deverá ser possível acessar a habilitação| must |
+|<center>INF3|Deverá ser possível consultar o veículo  | must |
+|<center>INF4|Deverá ser possível consultar infrações  | must |
+|<center>INF5|Deverá ser possível agendar atendimentos | must |
+|<center>INF6|Aplicativo deverá funcionar 24h        | should |
+<h6 align = "center">Tabela 3: Requisitos elicitados Questionário</h6>
 
 ## 4. Histórico de versão
 | Versão | Data       | Descrição                                           | Autor        | Revisor |
@@ -52,6 +66,7 @@ Na Tabela 2 abaixo foram categorizados os requisitos não-funcionais.
 | 0.2.2    | 12/07/2022 | Adicão do tópico Metodologia | Thiago Siqueira Gomes | Matheus Costa |
 | 0.2.3    | 12/07/2022 | Revisão e correção ortográfica em alguns textos | Matheus Costa | Thiago Gomes |
 | 0.3    | 12/07/2022 | Adição de Referências | Matheus Costa | Thiago Gomes |
+| 0.4    | 13/07/2022 | Adição da classificação MoSCoW dos requisitos de Questionários | Matheus Costa | Thiago Gomes |
 
 ## Referências
 

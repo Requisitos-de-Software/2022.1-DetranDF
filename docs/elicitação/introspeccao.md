@@ -29,9 +29,9 @@ Neste tópico são apresentados os requisitos elicitados, presentes nas tabelas 
 | INF 03 | O aplicativo deve estar disponível 24h |
 <h6 align = "center">Tabela 2: Requisitos não-funcionais</h6>
 
-## 4. Bibliografia
+## 4. Referências
 
-> Elicitação de Requisitos. PUC-Rio. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>. Acesso em: 11 de julho de 2022.
+> Elicitação de Requisitos. PUC-Rio. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>. Acesso em: 11 de jul. de 2022.
 
 ## 5. Histórico de versão
 | Versão | Data       | Descrição                                           | Autor        | Revisor |
