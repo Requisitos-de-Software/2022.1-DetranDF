@@ -10,62 +10,41 @@ Cada uma das letras em maiúsculo da sigla (M, S, C, W) faz referência a uma pa
 - **_Could_**: requisitos que **podem ser adicionados**, mas **não são essenciais** para a entrega; possuem um impacto menor no projeto se não forem implmentados.
 - **_Won't_**: requisitos que **não receberam muita importância** para a entrega dentro do prazo estipulado; por meio dessa categoria é possível evitar o crescimento desorganizado do projeto.
 
-## 3. Resultados
-Neste tópico serão apresentadas as categorizações de prioridade dos requisitos levantados por meio das técnicas de elicitação por [Introspecção](../introspeccao.md), [Questionário](../questionario.md) e _Brainstorming_.
+## 3. Priorização dos requisitos
+Neste tópico serão apresentadas as categorizações de prioridade MoSCoW dos requisitos, que foram elicitados por meio das técnicas de [Introspecção](../introspeccao.md), [Questionário](../questionario.md) e [_Brainstorming_](../brainstorm.md), além de sua separação e classificação entre requisitos funcionais e não-funcionais.
 
-### 3.1. Introspecção
 
 #### Requisitos Funcionais
 
-Na Tabela 1 abaixo foram categorizados os requisitos funcionais elicitados por Introspecção.
+Na *Tabela 1* abaixo foram categorizados os requisitos funcionais elicitados.
 
 | ID | Requisitos | Prioridade |
 |:--:|:--:|:--:|
-| IF 01 | O usuário deve ser capaz de se registrar no aplicativo | must |
-| IF 01 | O usuário deve ser capaz de fazer o login na sua conta | must |
-| IF 02 | O usuário deve ser capaz de visualizar sua CNH eletrônica | must |
-| IF 03 | O usuário deve ser capaz de visualizar suas multas | must |
-| IF 04 | O usuário deve ser capaz de consultar os pontos da carteira | must |
-| IF 05 | O usuário deve ser capaz de fazer um agendamento de atendimento presencial | should |
-| IF 06 | O usuário deve ser capaz de encontrar os números de contato do Detran | should |
-| IF 07 | O usuário deve ser capaz de solicitar 2ª via da CNH | should |
-| IF 08 | O usuário deve ser capaz de gerar boletos para pagar suas multas | should |
-<h6 align = "center">Tabela 1: Requisitos funcionais Introspecção</h6>
+| RF 01 | O usuário deve ser capaz de se registrar no aplicativo | must |
+| RF 02 | O usuário deve ser capaz de fazer o login na sua conta | must |
+| RF 03 | O usuário deve ser capaz de visualizar sua CNH eletrônica | must |
+| RF 04 | O usuário deve ser capaz de visualizar suas multas | must |
+| RF 05 | O usuário deve ser capaz de consultar os pontos da carteira | must |
+| RF 06 | O usuário deve ser capaz de fazer um agendamento de atendimento presencial | should |
+| RF 07 | O usuário deve ser capaz de encontrar os números de contato do Detran | should |
+| RF 08 | O usuário deve ser capaz de solicitar 2ª via da CNH | should |
+| RF 09 | O usuário deve ser capaz de gerar boletos para pagar suas multas | should |
+| RF 10 | O usuário deve ser capaz de consultar dados do veículo | should |
+| RF 11 | O usuário deve ser capaz de consultar infrações do veículo | should |
+<h6 align = "center">Tabela 1: Requisitos funcionais</h6>
 
 #### Requisitos Não-Funcionais
 
-Na Tabela 2 abaixo foram categorizados os requisitos não-funcionais elicitados por Introspecção.
+Na *Tabela 2* abaixo foram categorizados os requisitos não-funcionais elicitados.
 
 | ID | Requisitos | Prioridade |
 |:--:|:--:|:--:|
-| INF 01 | O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS | must |
-| INF 02 | O aplicativo deve ter uma latência máxima de 1000ms por requisição | must |
-| INF 03 | O aplicativo deve estar disponível 24h | must |
-<h6 align = "center">Tabela 2: Requisitos não-funcionais Introspecção</h6>
+| RNF 01 | O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS | must |
+| RNF 02 | O aplicativo deve ter uma latência máxima de 1000ms por requisição | must |
+| RNF 03 | O aplicativo deve estar disponível 24h | must |
+<h6 align = "center">Tabela 2: Requisitos não-funcionais</h6>
 
-### 3.2 Questionário
-#### Requisitos Funcionais
 
-Na Tabela 3 abaixo foram categorizados os requisitos funcionais elicitados por Questionários.
-
-| ID  | Requisitos                               | Prioridade         |
-|---------|-----------------------------------------|--------------|
-|<center>QF1|A interface deverá ser de fácil uso      | should |
-|<center>QF2|Deverá ser possível acessar a habilitação| must |
-|<center>QF3|Deverá ser possível consultar o veículo  | must |
-|<center>QF4|Deverá ser possível consultar infrações  | must |
-|<center>QF5|Deverá ser possível agendar atendimentos | must |
-|<center>QNF6|Aplicativo deverá funcionar 24h        | should |
-<h6 align = "center">Tabela 3: Requisitos funcionais elicitados Questionário</h6>
-
-#### Requisitos Funcionais
-
-Na Tabela 3 abaixo foram categorizados os requisitos não funcionais elicitados por Questionários.
-
-| ID  | Requisitos                               | Prioridade         |
-|---------|-----------------------------------------|--------------|
-|<center>QNF6|Aplicativo deverá funcionar 24h        | should |
-<h6 align = "center">Tabela 4: Requisitos não funcionais elicitados Questionário</h6>
 
 
 ## Referências
@@ -89,3 +68,4 @@ Na Tabela 3 abaixo foram categorizados os requisitos não funcionais elicitados 
 | 0.7    | 12/07/2022 | Adição de Referências | Matheus Costa | Thiago Gomes |
 | 0.8    | 13/07/2022 | Adição da classificação MoSCoW dos requisitos de Questionários | Matheus Costa | Thiago Gomes |
 | 0.9    | 13/07/2022 | Separação de requisitos do Questionário entre funcionais e não funcionais | Matheus Costa | Thiago Gomes |
+| 1.0    | 13/07/2022 | Reestruturação do documento | Matheus Costa | Thiago Gomes |
