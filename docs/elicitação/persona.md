@@ -58,7 +58,7 @@ mais abrangente. </p>
 
 |<b>Anti-persona</b>|Valentina Goulart Medeiros|
 |--|--|
-|<b>Foto:</b>|<img src="../../images/personas/avatar4.jpg" width="200px"></p><p>Figura 3: Foto de Valentina</p>|
+|<b>Foto:</b>|<img src="../../images/personas/avatar4.jpg" width="200px"></p><p>Figura 4: Foto de Valentina</p>|
 |<b>Idade:</b>|7 anos|
 |<b>Profissão:</b>|Estudante |
 |<b>Escolaridade:</b>|Ensino Fundamental Incompleto|
