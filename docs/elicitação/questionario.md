@@ -99,5 +99,4 @@ Na Tabela 1 abaixo é possível ver que todos os requisitos elicitados são do t
 
 ## 6. Referências Bibliográficas
 
-> Técnicas de Elicitação de Requisitos. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades
-> <p>Acesso em: 11 de Julho de 2022
+> Técnicas de Elicitação de Requisitos. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades. Acesso em: 11 de jul. de 2022.
