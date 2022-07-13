@@ -11,8 +11,10 @@ nav:
     - Rich Picture: prerastreabilidade/richPicture/richpicture.md
   - Elicitação:
     - Técnicas:
+      - Brainstorm: 'elicitação/brainstorm.md'
       - Introspecção: 'elicitação/introspeccao.md'
       - Questionário: 'elicitação/questionario.md'
       - Personas: 'elicitação/persona.md'
-    - Priorização: 'elicitação/priorizacao/moscow.md'
+    - Priorização: 'elicitação/priorização/moscow.md'
     - Resultado: 'elicitação/resultado.md'
+  - Apresentações: 'apresentacoes.md'

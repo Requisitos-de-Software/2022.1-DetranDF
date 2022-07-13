@@ -10,7 +10,7 @@ Para realizarmos essa técnica, a equipe definiu um integrante para fazer a intr
 Como resultado da introspecção, foram elicitados 12 requisitos, sendo eles 9 funcionais e 3 não funcionais.
 
 
-| ID | Requisitos Funcionais | 
+| Número | Requisitos Funcionais | 
 |:--:|:--:|
 | IF 01 | O usuário deve ser capaz de se registrar no aplicativo | 
 | IF 02 | O usuário deve ser capaz de fazer o login na sua conta | 
@@ -21,12 +21,14 @@ Como resultado da introspecção, foram elicitados 12 requisitos, sendo eles 9 f
 | IF 07 | O usuário deve ser capaz de encontrar os números de contato do Detran | 
 | IF 08 | O usuário deve ser capaz de solicitar 2ª via da CNH | 
 | IF 09 | O usuário deve ser capaz de gerar boletos para pagar suas multas | 
+<h6 align = "center">Tabela 1: Requisitos funcionais</h6>
 
 | ID | Requisitos Não-Funcionais | 
 |:--:|:--:|
 | INF 01 | O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS |
 | INF 02 | O aplicativo deve ter uma latência máxima de 1000ms por requisição |
 | INF 03 | O aplicativo deve estar disponível 24h |
+<h6 align = "center">Tabela 2: Requisitos não-funcionais</h6>
 
 ## 5. Bibliografia
 Elicitação de Requisitos. PUC-Rio. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>. Acesso em: 11 de julho de 2022.
@@ -34,7 +36,8 @@ Elicitação de Requisitos. PUC-Rio. Disponível em: <https://www.maxwell.vrac.p
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
 
 ## 6. Histórico de versão
-| Versão | Data       | Descrição                                           | Autor        | Revisor      |
-| ------ | ---------- | --------------------------------------------------- | ------------ | ------------ |
-| 0.1    | 11/07/2022 | Criação do documento | Christian | Arthur | 
-| 0.2    | 12/07/2022 | Adicionado metodologia | Christian | Arthur | 
+| Versão |     Data     |           Descrição            |   Autor   | Revisor |
+|:------:|:------------:|:------------------------------:|:---------:|:-------:|
+|  0.1   |  11/07/2022  |      Criação do documento      | Christian | Arthur  | 
+|  0.2   |  12/07/2022  |     Adicionado metodologia     | Christian | Arthur  | 
+|  0.3   |  12/07/2022  | Correções de legendas e layout |   Paulo   |  Todos  | 

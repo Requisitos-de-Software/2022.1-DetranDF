@@ -6,7 +6,7 @@ e necessidades, reunindo características significativas de um grupo
 mais abrangente. </p>
 
 ## 2. Personas
-### 2.1 Persona 1
+### 2.1. Persona 1
 
 |<b>Persona Primária</b>|André Luiz da Silva|
 |--|--|
@@ -22,7 +22,7 @@ mais abrangente. </p>
 |<b>Expectativas:</b>|Espera que consiga obter informações e resolver problemas simples de forma rapida sem precisar ir até uma unidade do detran.|
 <h6 align = "center">Tabela 1: Persona André</h6>
 
-### 2.2 Persona 2
+### 2.2. Persona 2
 
 |<b>Persona Primária</b>|Maria Luzia da Conceição|
 |--|--|
@@ -38,7 +38,7 @@ mais abrangente. </p>
 |<b>Expectativas:</b>|Por ter pouco tempo livre e ser metódica espera que o aplicativo seja claro e informe para que serve cada função, caso tenha dúvida espera que o app possua uma seção de ajuda.   |
 <h6 align = "center">Tabela 2: Persona Maria</h6>
 
-### 2.3 Persona 3
+### 2.3. Persona 3
 
 |<b>Persona Primária</b>|Francisco de Assis|
 |--|--|
@@ -54,7 +54,7 @@ mais abrangente. </p>
 |<b>Expectativas:</b>| As informações devem ser objetivas e de fácil compreensão, uma linguagem rebuscada não atenderia este tipo de perfil. Informações em forma de figuras são bem-vindas desde que estejam em uma paleta de cores acessíveis para usuários com problemas de visão como daltônicos.|
 <h6 align = "center">Tabela 3: Persona Francisco</h6>
 
-## 3 Anti-persona 
+## 3. Anti-persona 
 
 |<b>Anti-persona</b>|Valentina Goulart Medeiros|
 |--|--|
@@ -70,12 +70,12 @@ mais abrangente. </p>
 |<b>Expectativas:</b>| Não tem idade o suficiente para entender os motivos dos serviços prestado pelo Detran-DF, portanto não possui expectativa acerca do mesmo.|
 <h6 align = "center">Tabela 4: Persona Valentina</h6>
 
-## 3. Referências
+## 4. Referências
 ><p style="text-align: justify">As fotos das personas foram retiradas do site <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. <b>Acesso em:</b> 07 de julho de 2022.</p>
 >VIANNA, Maurício. et al. <b>DESING THINKING inovações em negócios.</b> Rio de janeiro. <b>MJV Press.</b> Abril 2012. página 80.
 
-## 4.Histórico de Versão
-| Versão | Data       | Descrição                        | Autor         |
-|--------|------------|----------------------------------|---------------|
-| 1.0    | 07/07/2022 | Criação do documento             | Alex Gabriel  |
-| 2.0    | 11/07/2022 | Adição de persona e anti-persona | Paulo Gontijo |
+## 5. Histórico de Versão
+| Versão |     Data     |              Descrição               |      Autor      |
+|:------:|:------------:|:------------------------------------:|:---------------:|
+|  0.1   |  07/07/2022  |         Criação do documento         |  Alex Gabriel   |
+|  0.2   |  11/07/2022  |  Adição de persona 3 e anti-persona  |  Paulo Gontijo  |
