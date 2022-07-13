@@ -67,7 +67,7 @@ Será utilizada a metodologia de Revisão por Pares, ou seja, após uma abertura
 Na seguinte tabela está representada a disponibilidade dos integrantes de acordo com cada horário, essa tabela tem o objetivo de determinar os melhores horários para reunião entre a equipe.
 
 ![horarios_disponiveis](../assets/horarios_disponiveis.png "Horários Disponíves")
-
+<h6 align = "center">Tabela 4: Horários disponíveis</h6>
 Planilha com os horários de cada integrante disponível [aqui](https://docs.google.com/spreadsheets/d/1VcyEOwIERyxX-N2xfmTZ8kjvRGureDUciLQ75cMS0U0/edit#gid=471964901).
 
 ## 6. Ferramentas Utilizadas
@@ -84,6 +84,7 @@ Planilha com os horários de cada integrante disponível [aqui](https://docs.goo
 | ![VSCode_logo](../assets/logos/VisualStudioCode.png) | [VSCode](https://code.visualstudio.com/) | Editor de código destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![Pycharm_logo](../assets/logos/Pycharm.png) | [PyCharm](https://www.jetbrains.com/pycharm/) | Ambiente de desenvolvimento destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![Teams_logo](../assets/logos/Teams.png) | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) | Plataforma usada para a gravação dos vídeos de apresentação do projeto |
+<h6 align = "center">Tabela 5: Ferramentas utilizadas</h6>
 
 ## 7. Referências Bibliograficas
 > Extreme Programming – Conceitos e Práticas. Disponível em: <a href= "https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498">https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498</a><br> Acesso em: 28 de junho de 2022
@@ -92,9 +93,10 @@ Planilha com os horários de cada integrante disponível [aqui](https://docs.goo
 
 ## 7. Histórico de Versão
 
-|  Versão   | Data | Descrição            | Autor            | Revisor |
-|-----------|------|----------------------|------------------|---------|
-|<center>0.1|28/06/2022 |Criação da página     | Alex e Christian | Matheus |
-|<center>0.2|29/06/2022 |Adição da metodologia | Todos            | Todos   |
-|<center>0.3|29/06/2022 |Adição das ferramentas| Christian        | Matheus |
-|<center>0.4|05/07/2022 |Correção do cronograma| Alex             | Arthur  |
+| Versão      | Data       | Descrição                         | Autor     | Revisor |
+|-------------|------------|-----------------------------------|-----------|---------|
+| <center>0.1 | 28/06/2022 | Criação da página                 | Alex e Christian | Matheus |
+| <center>0.2 | 29/06/2022 | Adição da metodologia             | Todos     | Todos   |
+| <center>0.3 | 29/06/2022 | Adição das ferramentas            | Christian | Matheus |
+| <center>0.4 | 05/07/2022 | Correção do cronograma            | Alex      | Arthur  |
+| <center>0.5 | 12/07/2022 | Ajustes legendas tabelas e layout | Paulo     | Todos   |

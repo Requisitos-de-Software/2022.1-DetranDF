@@ -1,7 +1,7 @@
 # Início
 
 <div align="center">
-<img src = "/images/detrandf_logo.png" width="300"/>
+<img src = "./images/detrandf_logo.png" width="300"/>
 </div>
 
 ## 1. Sobre o projeto
