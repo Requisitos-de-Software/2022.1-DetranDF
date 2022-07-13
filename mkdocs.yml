@@ -1,6 +1,6 @@
 site_name: Detran-DF
 theme:
-  name: 'readthedocs'
+  name: 'material'
   logo: 'images/detrandf_logo.png'
   favicon: 'images/detrandf_logo.png'
   language: 'pt'
