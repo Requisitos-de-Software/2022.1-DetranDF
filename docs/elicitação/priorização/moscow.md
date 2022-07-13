@@ -1,13 +1,15 @@
 # MoSCoW
-
 ## 1. Introdução
-MoSCoW é uma técnica de priorização de requisitos que consiste na divisão dos requisitos levantados em 4 tipos:
+MoSCoW é uma técnica de priorização de requsitos, que visa estabelecer um grau de prioridade para cada requisito do sistema que foi levantado através das técnicas de elicitação. Essa priorização é útil para auxiliar o tima a definir o que deve ser feito primeiro dentro do escopo do projeto.
+
+## 2. Metodologia
+Essa técnica de priorização de requisitos consiste na divisão dos requisitos levantados em 4 tipos:
 
 - Must: requisitos que devem obrigatoriamente estar presentes no sistema para que ele funcione.
 - Should: requisitos que grande importância que devem estar no sistema.
 - Could: requisitos que podem ser adicionados, mas possuem um impacto menor no projeto.
 - Won't: requisitos que não valem a pena serem implementados
-## 2. Resultado
+## 3. Resultados
 ### 1. Introspecção
 #### Requisitos Funcionais
 | ID | Requisitos | Prioridade |
@@ -29,9 +31,10 @@ MoSCoW é uma técnica de priorização de requisitos que consiste na divisão d
 | INF 02 | O aplicativo deve ter uma latência máxima de 1000ms por requisição | must |
 | INF 03 | O aplicativo deve estar disponível 24h | must |
 
-## 5. Histórico de versão
+## 4. Histórico de versão
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 11/07/2022 | Criação do documento | Thiago Siqueira Gomes |
 | 0.2    | 11/07/2022 | Adição de introdução | Thiago Siqueira Gomes |
 | 0.2    | 11/07/2022 | Adição de MoSCoW de requisitos da introspecção | Thiago Siqueira Gomes |
+| 0.2    | 12/07/2022 | Adicionei secção de metodologia | Thiago Siqueira Gomes |
