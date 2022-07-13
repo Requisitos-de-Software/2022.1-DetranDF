@@ -7,7 +7,14 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: planejamento.md
-  - Pré-Rastriabilidade:
-    - Rich Picture: 'prerastreabilidade/richpicture.md'
-  - Apresentação: apresentacoes.md
-  # Sempre deixar apresentação por último
+  - Pré-Rastreabilidade:
+    - Rich Picture: prerastreabilidade/richPicture/richpicture.md
+  - Elicitação:
+    - Técnicas:
+      - Brainstorm: 'elicitação/brainstorm.md'
+      - Introspecção: 'elicitação/introspeccao.md'
+      - Questionário: 'elicitação/questionario.md'
+      - Personas: 'elicitação/persona.md'
+    - Priorização: 'elicitação/priorização/moscow.md'
+    - Resultado: 'elicitação/resultado.md'
+  - Apresentações: 'apresentacoes.md'

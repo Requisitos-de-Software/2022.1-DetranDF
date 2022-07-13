@@ -2,8 +2,9 @@
 
 ## 1° Apresentação: Planejamento do Projeto
 
-<center>
+<iframe width="942" height="530" src="https://www.youtube.com/embed/UeL4xjjUOGE" title="Apresentação 1 | Planejamento | Requisitos de Software UnB 2022-1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Disponibilizado no dia 29 de Junho de 2022
 
-<iframe width="660" height="330" src="https://www.youtube.com/embed/UeL4xjjUOGE" title="Apresentação 1 - Grupo 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</center>
+## 2ª Apresentação: Elicitação de Requisitos
+<iframe width="942" height="530" src="https://www.youtube.com/nosso-link-aqui" title=" Apresentação 2 | Elicitação | Requisitos de Software UnB 2022-1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Disponibilizado no dia 13 de Julho de 2022
