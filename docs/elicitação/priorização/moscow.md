@@ -47,7 +47,7 @@ Na *Tabela 1* abaixo foram categorizados os requisitos funcionais elicitados.
 | RF24 |Deve ser possível consultar informações sobre ocorrências                          |should|
 | RF25 |Deve ser possível emitir documento de nada consta                                  |could|
 | RF26 |Deve ser possível consultar informações sobre processo de obtenção da habilitação  |should|
-| RF27 |Deve ser possível solicitar CNH definitiva                                         |Brainstorm|
+| RF27 |Deve ser possível solicitar CNH definitiva                                         |must|
 | RF28 |Deve ser possível solicitar 2ª via de CNH                                          |must|
 | RF29 |Deve ser possível solicitar autorização de estacionamento para idosos              |must|
 | RF30 |Deve ser possível solicitar autorização de estacionamento para PCDs                |must|
