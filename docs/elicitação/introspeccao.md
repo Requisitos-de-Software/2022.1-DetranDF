@@ -30,9 +30,11 @@ Neste tópico são apresentados os requisitos elicitados, presentes nas tabelas 
 <h6 align = "center">Tabela 2: Requisitos não-funcionais</h6>
 
 ## 4. Bibliografia
-Elicitação de Requisitos. PUC-Rio. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>. Acesso em: 11 de julho de 2022.
+
+> Elicitação de Requisitos. PUC-Rio. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>. Acesso em: 11 de julho de 2022.
 
 ## 5. Histórico de versão
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 1.0    | 11/07/2022 | Criação do documento | Christian Fleury Alencar Siqueira |
+| Versão | Data       | Descrição                                           | Autor        | Revisor |
+| ------ | ---------- | --------------------------------------------------- | ------------ | --------|
+| 1.0    | 11/07/2022 | Criação do documento | Christian Fleury Alencar Siqueira | Matheus Costa |
+| 1.1    | 13/07/2022 | Revisão do documento | Matheus Costa | Christian Fleury Alencar Siqueira
