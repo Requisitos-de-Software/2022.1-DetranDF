@@ -78,14 +78,17 @@ Apesar de não conseguirem na maioria nao resolver sempre suas necessidades, gra
 
 ## 4. Requisitos elicitados
 
-| Número  | Requisito                               | Tipo         |
+Na Tabela 1 abaixo é possível ver que todos os requisitos elicitados são do tipo Não-funcional.
+
+| Número  | Requisitos                               | Tipo         |
 |---------|-----------------------------------------|--------------|
-|<center>1|A interface deverá ser de facil uso      |Não Funcional |
+|<center>1|A interface deverá ser de fácil uso      |Não Funcional |
 |<center>2|Deverá ser possível acessar a habilitação|Não Funcional |
 |<center>3|Deverá ser possível consultar o veículo  |Não Funcional |
 |<center>4|Deverá ser possível consultar infrações  |Não Funcional |
 |<center>5|Deverá ser possível agendar atendimentos |Não Funcional |
-|<center>6|Aplicativo deverá funcionar 24/7         |Não Funcional |
+|<center>6|Aplicativo deverá funcionar 24h        |Não Funcional |
+<h6 align = "center">Tabela 1: Requisitos elicitados</h6>
 
 ## 5. Histórico de Versão
 
