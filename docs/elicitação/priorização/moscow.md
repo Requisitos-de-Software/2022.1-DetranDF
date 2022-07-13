@@ -59,13 +59,7 @@ Na *Tabela 2* abaixo foram categorizados os requisitos não-funcionais elicitado
 ## Histórico de Versão
 | Versão | Data       | Descrição                                           | Autor        | Revisor |
 | ------ | ---------- | --------------------------------------------------- | ------------ | ------- |
-| 0.1    | 11/07/2022 | Criação do documento | Thiago Siqueira Gomes | Matheus Costa |
-| 0.2    | 11/07/2022 | Adição de introdução | Thiago Siqueira Gomes | Matheus Costa |
-| 0.3    | 11/07/2022 | Adição da classificação MoSCoW dos requisitos da Introspecção | Thiago Siqueira Gomes | Matheus Costa |
-| 0.4    | 12/07/2022 | Correções de português e layout, adição de legendas |     Paulo Gontijo     |
-| 0.5    | 12/07/2022 | Adicão do tópico Metodologia | Thiago Siqueira Gomes | Matheus Costa |
-| 0.6    | 12/07/2022 | Revisão e correção ortográfica em alguns textos | Matheus Costa | Thiago Gomes |
-| 0.7    | 12/07/2022 | Adição de Referências | Matheus Costa | Thiago Gomes |
-| 0.8    | 13/07/2022 | Adição da classificação MoSCoW dos requisitos de Questionários | Matheus Costa | Thiago Gomes |
-| 0.9    | 13/07/2022 | Separação de requisitos do Questionário entre funcionais e não funcionais | Matheus Costa | Thiago Gomes |
-| 1.0    | 13/07/2022 | Reestruturação do documento | Matheus Costa | Thiago Gomes |
+| 0.1    | 11/07/2022 | Criação do documento, Adição de introdução, Adição da classificação MoSCoW dos requisitos da Introspecção | Thiago Siqueira Gomes | Matheus Costa |
+| 0.2    | 12/07/2022 | Correções de português e layout, adição de legendas, Adicão do tópico Metodologia |     Paulo Gontijo     | Thiago Siqueira Gomes
+| 0.3    | 12/07/2022 | Revisão e correção ortográfica em alguns textos, Adição de Referências, Adição da classificação MoSCoW dos requisitos de Questionários | Matheus Costa | Thiago Gomes |
+| 0.4    | 13/07/2022 | Separação de requisitos do Questionário entre funcionais e não funcionais, Reestruturação do documento | Matheus Costa | Thiago Gomes |
