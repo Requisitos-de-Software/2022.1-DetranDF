@@ -95,6 +95,7 @@ Na Tabela 1 abaixo é possível ver que todos os requisitos elicitados são do t
 |  Versão   | Data       | Descrição           | Autor  | Revisor|
 |-----------|------------|---------------------|--------|--------|
 |<center>0.1| 25/06/2022 |Criação da página    | Arthur | Paulo  |
+|<center>0.2| 13/07/2022 |Correções no tópico de Requisitos elicitados    | Matheus Costa | Paulo  |
 
 
 ## 6. Referências Bibliográficas
