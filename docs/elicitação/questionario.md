@@ -80,12 +80,11 @@ Apesar de não conseguirem na maioria nao resolver sempre suas necessidades, gra
 
 | Número  | Requisito                               | Tipo         |
 |---------|-----------------------------------------|--------------|
-|<center>1|A interface deverá ser de facil uso      |Não Funcional |
-|<center>2|Deverá ser possível acessar a habilitação|Não Funcional |
-|<center>3|Deverá ser possível consultar o veículo  |Não Funcional |
-|<center>4|Deverá ser possível consultar infrações  |Não Funcional |
-|<center>5|Deverá ser possível agendar atendimentos |Não Funcional |
-|<center>6|Aplicativo deverá funcionar 24/7         |Não Funcional |
+|<center>1|Deverá ser possível acessar a habilitação|Funcional     |
+|<center>2|Deverá ser possível consultar o veículo  |Funcional     |
+|<center>3|Deverá ser possível consultar infrações  |Funcional     |
+|<center>4|Deverá ser possível agendar atendimentos |Funcional     |
+|<center>5|Aplicativo deverá funcionar 24/7         |Não Funcional |
 
 ## 5. Histórico de Versão
 
