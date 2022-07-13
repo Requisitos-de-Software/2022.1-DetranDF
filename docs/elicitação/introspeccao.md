@@ -7,7 +7,7 @@ A introspecção é uma técnica de elicitação de requisitos que se baseia em 
 Para realizarmos essa técnica, a equipe definiu um integrante para fazer a introspecção. Esse integrante estudou mais a fundo sobre a técnica. Em seguida, este integrante, individualmente, realizou uma introspecção.
 
 ## 3. Resultados
-Como resultado da introspecção, foram elicitados 12 requisitos, sendo eles 9 funcionais e 3 não funcionais.
+Como resultado da introspecção, foram elicitados 12 requisitos, que podem ser observados na Tabela 1 abaixo.
 
 
 | Número |                              Requisitos Levantados                              | 
@@ -27,12 +27,13 @@ Como resultado da introspecção, foram elicitados 12 requisitos, sendo eles 9 f
 <h6 align = "center">Tabela 1: Requisitos levantados</h6>
 
 
-## 5. Bibliografia
+## Referências
 > Elicitação de Requisitos. PUC-Rio. Disponível em: <https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>. Acesso em: 11 de julho de 2022.
 
 > SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
 
-## 6. Histórico de versão
+***
+## Histórico de Versão
 | Versão |     Data     |           Descrição            |   Autor   | Revisor |
 |:------:|:------------:|:------------------------------:|:---------:|:-------:|
 |  0.1   |  11/07/2022  |      Criação do documento      | Christian | Arthur  | 

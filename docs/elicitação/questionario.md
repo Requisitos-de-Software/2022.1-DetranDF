@@ -98,13 +98,15 @@ Segue tabela com os requisitos levantados a partir dos questionamentos:
 |   5    |     Aplicativo deverá funcionar 24/7      |
 <h6 align = "center">Tabela 1: Requisitos elicitados</h6>
 
-## 5. Histórico de Versão
-
-|   Versão    |    Data    |                      Descrição                      | Autor  | Revisor |
-|:-----------:|:----------:|:---------------------------------------------------:|:------:|:-------:|
-| <center>0.1 | 05/07/2022 |                  Criação da página                  | Arthur |  Paulo  |
-| <center>0.2 | 12/07/2022 | Correções de português e layout, adição de legendas | Paulo  | Arthur  |
-
-## 6. Referências Bibliográficas
+## Referências
 
 > Técnicas de Elicitação de Requisitos. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades. Acesso em: 11 de jul. de 2022.
+
+***
+## Histórico de Versão
+
+|   Versão    |    Data    |    Descrição             | Autor  | Revisor |
+|:-----------:|:----------:|:---------------------------------------------------:|:------:|:-------:|
+| 0.1 | 05/07/2022 |                  Criação da página                  | Arthur |  Paulo  |
+| 0.2 | 12/07/2022 | Correções de português e layout, adição de legendas | Paulo  | Arthur  |
+

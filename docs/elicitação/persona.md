@@ -70,11 +70,12 @@ mais abrangente. </p>
 |<b>Expectativas:</b>| Não tem idade o suficiente para entender os motivos dos serviços prestado pelo Detran-DF, portanto não possui expectativa acerca do mesmo.|
 <h6 align = "center">Tabela 4: Persona Valentina</h6>
 
-## 4. Referências
+## Referências
 ><p style="text-align: justify">As fotos das personas foram retiradas do site <b>This Person Does Not Exist</b>. Disponível em: <a href="https://thispersondoesnotexist.com/" target="_blanck">https://thispersondoesnotexist.com/</a>. <b>Acesso em:</b> 07 de julho de 2022.</p>
 >VIANNA, Maurício. et al. <b>DESING THINKING inovações em negócios.</b> Rio de janeiro. <b>MJV Press.</b> Abril 2012. página 80.
 
-## 5. Histórico de Versão
+***
+## Histórico de Versão
 | Versão |     Data     |              Descrição               |      Autor      |
 |:------:|:------------:|:------------------------------------:|:---------------:|
 |  0.1   |  07/07/2022  |         Criação do documento         |  Alex Gabriel   |

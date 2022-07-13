@@ -46,8 +46,8 @@ RNF = Requisitos Não-Funcionais
 
 </center>
 
-## 3. Histórico de Versão
+## Histórico de Versão
 
-|  Versão   | Data       | Descrição           | Autor  | Revisor|
-|-----------|------------|---------------------|--------|--------|
-|<center>0.1| 12/07/2022 |Criação da página    | Arthur | Alex   |
+|    Versão   |     Data       |      Descrição        |  Autor  | Revisor|
+|:-----------:|:--------------:|:---------------------:|:--------:|:--------:|
+| 0.1 | 12/07/2022 | Criação da página    | Arthur | Alex   |
