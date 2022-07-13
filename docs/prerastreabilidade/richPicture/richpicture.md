@@ -18,12 +18,11 @@ Para visualizar as outras versões feitas pela equipe, [clique aqui](versoesRich
 ![](../../images/richpictures/leg_richpic.png)
 <h6 align = "center">Imagem 2: legenda do rich picture</h6>
 
-## 3. Referências
+## Referências
 > MULTI-STAKEHOLDER PARTNERSHIPS. **Rich Picture**. Disponível em: <a href="https://mspguide.org/2022/03/18/rich-picture/." target="__blank">https://mspguide.org/2022/03/18/rich-picture/.</a> ** Acesso em:** 28 jun. 2022.
 
-
 ***
-## 4. Histórico de Versão
+## Histórico de Versão
 | Data | Versão | Autor | Descrição | Revisor |
 | ---- | ---- | ---- | ---- | ---- |
 | 28/06/2022 | 0.1 | Alex Gabriel | Criação do documento - adição do corpo do texto e imagens dos Rich Pictures | Matheus Costa |

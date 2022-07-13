@@ -82,7 +82,7 @@ RNF = Requisitos Não-Funcionais
 
 </center>
 
-## 3. Histórico de Versão
+## Histórico de Versão
 
 |  Versão   | Data       | Descrição           | Autor  | Revisor|
 |-----------|------------|---------------------|--------|--------|

@@ -27,10 +27,11 @@ Abaixo segue a tabela com a relação dos alunos participantes do grupos e seus 
 <h6 align = "center">Tabela 1: Equipe</h6>
 </center>
 
-## 4. Histórico de Versão
+***
+## Histórico de Versão
 
 |  Versão   | Data | Descrição           | Autor  | Revisor|
-|-----------|------|---------------------|--------|--------|
-|<center>0.1| 25/06/2022 |Criação da página    | Arthur | Thiago |
-|<center>0.2| 28/06/2022 |Atualização da página| Arthur | Thiago |
-|<center>0.3| 09/07/2022 |Atualização da página| Arthur | Alex   |
+|:-----------:|:------:|:---------------------:|:--------:|:--------:|
+| 0.1 | 25/06/2022 |Criação da página    | Arthur | Thiago |
+| 0.2 | 28/06/2022 |Atualização da página| Arthur | Thiago |
+| 0.3 | 09/07/2022 |Atualização da página| Arthur | Alex   |

@@ -89,12 +89,13 @@ Abaixo segue a tabela com a relação das ferramentas utilizadas, pelo nossa equ
 | ![Teams_logo](../assets/logos/Teams.png) | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) | Plataforma usada para a gravação dos vídeos de apresentação do projeto |
 <h6 align = "center">Tabela 5: Ferramentas utilizadas</h6>
 
-## 7. Referências Bibliograficas
+## Referências
 > Extreme Programming – Conceitos e Práticas. Disponível em: <a href= "https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498">https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498</a><br> Acesso em: 28 de junho de 2022
 
 > Git Workflow: o que é e principais tipos. Disponível em: <a href= "https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe">https://www.zup.com.br/blog/git-workflow#:~:text=O%20Git%20Workflow%20é%20uma,boa%20opção%20para%20sua%20equipe</a><br> Acesso em 28 de junho de 2022
 
-## 7. Histórico de Versão
+***
+## Histórico de Versão
 
 | Versão      | Data       | Descrição                         | Autor     | Revisor |
 |-------------|------------|-----------------------------------|-----------|---------|
