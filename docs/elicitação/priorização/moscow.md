@@ -13,9 +13,12 @@ Cada uma das letras em maiúsculo da sigla (M, S, C, W) faz referência a uma pa
 ## 3. Resultados
 Neste tópico serão apresentadas as categorizações de prioridade dos requisitos levantados por meio das técnicas de elicitação por [Introspecção](../introspeccao.md), [Questionário](../questionario.md) e _Brainstorming_.
 
-### 1. Introspecção
+### 3.1. Introspecção
 
 #### Requisitos Funcionais
+
+Na Tabela 1 abaixo foram categorizados os requisitos funcionais.
+
 | ID | Requisitos | Prioridade |
 |:--:|:--:|:--:|
 | IF 01 | O usuário deve ser capaz de se registrar no aplicativo | must |
@@ -27,13 +30,18 @@ Neste tópico serão apresentadas as categorizações de prioridade dos requisit
 | IF 06 | O usuário deve ser capaz de encontrar os números de contato do Detran | should |
 | IF 07 | O usuário deve ser capaz de solicitar 2ª via da CNH | should |
 | IF 08 | O usuário deve ser capaz de gerar boletos para pagar suas multas | should |
+<h6 align = "center">Tabela 1: Requisitos funcionais Introspecção</h6>
 
 #### Requisitos Não-Funcionais
+
+Na Tabela 2 abaixo foram categorizados os requisitos não-funcionais.
+
 | ID | Requisitos | Prioridade |
 |:--:|:--:|:--:|
 | INF 01 | O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS | must |
 | INF 02 | O aplicativo deve ter uma latência máxima de 1000ms por requisição | must |
 | INF 03 | O aplicativo deve estar disponível 24h | must |
+<h6 align = "center">Tabela 2: Requisitos não-funcionais Introspecção</h6>
 
 ## 4. Histórico de versão
 | Versão | Data       | Descrição                                           | Autor        | Revisor |
