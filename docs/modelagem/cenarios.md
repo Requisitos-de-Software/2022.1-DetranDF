@@ -1,4 +1,11 @@
-## 3. Cenários
+## 1. introdução
+
+<p style="text-indent: 20px; text-align: justify">
+Cenários são considerados descrições evolutivas de situações num ambiente, sendo compostos por um conjunto ordenado de interações entre seus
+participantes. 
+Cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos. 
+</p>
+## 2. Cenários
 
 ### C01
 |<h3>**Realizar cadastro**</h3>||
@@ -88,7 +95,7 @@
 |**Restrição:**|- Estar logado no aplicativo|
 |**Exceção:**|- Sem acesso a internet<br>- Servidores do aplicativo fora do ar |
 
-### C08
+### C09
 |<h3>**Deslogar do aplicativo**</h3>||
 |--- |--- |
 |**Objetivo:**|- Desconectar conta do aplicativo|
@@ -98,4 +105,14 @@
 |**Episódios:**|- Usuário clica no botão de menu lateral<br>- Usuário seleciona sair|
 |**Restrição:**|- Estar logado no aplicativo|
 |**Exceção:**|- Sem acesso a internet<br>- Servidores do aplicativo fora do ar |
+
+## 3. Referências
+
+> <p>SAMPAIO, Julio Cesar. Capítulo 3 - Cenários. PUC-rio. Disponível <a href="http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf" target="_blank">aqui.</a></p>
+
+***
+## Histórico de Versão
+| Versão |     Data     |              Descrição               |      Autor      | Revisor |
+|:------:|:------------:|:------------------------------------:|:---------------:|:------:|
+|  0.1   |  19/07/2022  |         Criação do documento         |  Alex   | Arthur|
 
