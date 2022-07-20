@@ -17,4 +17,11 @@ nav:
       - Personas: 'elicitação/persona.md'
     - Resultado: 'elicitação/resultado.md'
     - Priorização: 'elicitação/priorização/moscow.md'
+  - Modelagem:
+    - Lexico: 'modelagem/lexico.md'
+    - Cenários: 'modelagem/cenarios.md'
+    - Casos de Uso: 'modelagem/casos.md'
+    - Especificação Suplementar: 'modelagem/especificacao.md'
+    - Backlog: 'modelagem/backlog.md'
+    - NFR Framework: 'modelagem/nfr.md'
   - Apresentações: 'apresentacoes.md'
