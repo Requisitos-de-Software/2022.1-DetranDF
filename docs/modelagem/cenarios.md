@@ -1,13 +1,14 @@
-## 1. introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 Cenários são considerados descrições evolutivas de situações num ambiente, sendo compostos por um conjunto ordenado de interações entre seus
 participantes. 
 Cenários são utilizados para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros sistemas externos, auxiliando no entendimento e na descoberta de novos requisitos. 
 </p>
+
 ## 2. Cenários
 
-### C01
+### 2.1 C01
 |<h3>**Realizar cadastro**</h3>||
 |--- |--- |
 |**Objetivo:**|Criar conta de usuário|
@@ -18,7 +19,7 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Restrição:**| - Usuário deve possuir documentação válida |
 |**Exceção:**|- CPF/CNPJ não encontrado<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar<br>- Dados incorretos|
 
-### C02
+### 2.2 C02
 |<h3>**Realizar login**</h3>||
 |--- |--- |
 |**Objetivo:**|Fazer login no aplicativo|
@@ -29,7 +30,7 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Restrição:**| - Usuário deve possuir cadastro|
 |**Exceção:**|- CPF/CNPJ ou senha inválidos<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar |
 
-### C03
+### 2.3 C03
 |<h3>**Pesquisar serviços**</h3>||
 |--- |--- |
 |**Objetivo:**|Encontrar serviço desejado|
@@ -40,7 +41,7 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Restrição:**|- Usuário deve estar logado no aplicativo<br>|
 |**Exceção:**|- Serviço não encontrado<br>- Serviço não pertence ao aplicativo<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar  |
 
-### C04
+### 2.4 C04
 |<h3>**Acessar seção de veículos**</h3>||
 |--- |--- |
 |**Objetivo:**|Acessar serviços relacionados com um ou mais veículos|
@@ -51,7 +52,7 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Restrição:**|- Usuário não ter dados válidos do veículo|
 |**Exceção:**|- Dados inválidos<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar  |
 
-### C05
+### 2.5 C05
 |<h3>**Acessar seção de habilitação**</h3>||
 |--- |--- |
 |**Objetivo:**|Acessar serviços relacionados a habilitação|
@@ -62,7 +63,7 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Restrição:**|- Usuário não ter habilitação<br>- Usuário não ter feito login|
 |**Exceção:** |- Dados inválidos<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar |
 
-### C06
+### 2.6 C06
 |<h3>**Acessar seção de infrações**</h3>||
 |--- |--- |
 |**Objetivo:**|Acessar serviços relacionados as infrações do usuário|
@@ -73,7 +74,7 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Restrição:**|- Usuário não ter feito login<br>|
 |**Exceção:**|- Dados inválidos<br>- Sem acesso a internet<br>- Servidores do aplicativo fora do ar|
 
-### C07
+### 2.7 C07
 |<h3>**Agendar atendimento presencial**</h3>||
 |--- |--- |
 |**Objetivo:**|Agendar data para realizar atendimento precencial|
@@ -84,7 +85,7 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Restrição:**|- Dados inválidos<br>|
 |**Exceção:**|- Serviços ou datas indisponíveis<br>- Não ter unidades perto do usuário<br>  |
 
-### C08
+### 2.8 C08
 |<h3>**Favoritar serviço**</h3>||
 |--- |--- |
 |**Objetivo:**|Favoritar serviços para fácil acesso|
@@ -95,7 +96,7 @@ Cenários são utilizados para descrever as situações de uso do sistema pelos 
 |**Restrição:**|- Estar logado no aplicativo|
 |**Exceção:**|- Sem acesso a internet<br>- Servidores do aplicativo fora do ar |
 
-### C09
+### 2.9 C09
 |<h3>**Deslogar do aplicativo**</h3>||
 |--- |--- |
 |**Objetivo:**|Desconectar conta do aplicativo|
