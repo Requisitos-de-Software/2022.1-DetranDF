@@ -1,8 +1,9 @@
 # Léxico
 ## 1. Introdução
-Chris
+Léxico trata-se uma técnica que procura descrever os símbolos de uma linguagem. O principal objetivo é auxiliar na identificação de palavras ou frases peculiares ao meio social da aplicação. Cada símbolo é descrito com noção e impacto, sendo noção o símbolo e o impacto a descrição do efeito/uso/ocorrência do símbolo na aplicação ou do efeito de algo na aplicação sobre o símbolo.
+
 ## 2. Metodologia
-Chris
+Para a realização dessa técnica, a nossa equipe designou dois integrantes (Paulo e Christian). Esses integrantes estudaram conteúdo e através de uma análise dos artefatos previamente construídos, identificaram os principais símbolos que irão compor o léxico do projeto.
 ## 3. Resultado
 ### 3.1 Léxico: Registrar
 Abaixo segue a tabela com as informação sobre o léxico:
@@ -53,7 +54,9 @@ consultar o veículo
 senha
 situação
 ## 4. Referências Bibliográfias
-Chris
+> SAYÃO, Miriam. et al. Construção do léxico de aplicações. PUC-RS. Disponível em: <http://www.nilc.icmc.usp.br/til/til2006/0030.pdf>. Acesso em: 19 de julho de 2022.
+
+> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10
 ## 5. Histórico de Versão
 
 | Versão | Data  |                                Descrição                                |              Autor              |    Revisor    |
