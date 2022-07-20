@@ -72,11 +72,11 @@ RNF = Requisitos Não-Funcionais
 
 <center>
 
-| Número     | Requisito                                                                     | Técnica    |
-|------------|-------------------------------------------------------------------------------|------------|
-|<center>RNF1|O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS|Introspecção|
-|<center>RNF2|O aplicativo deve ter uma latência máxima de 1000ms por requisição             |Introspecção|
-|<center>RNF3|O aplicativo deve estar disponível 24h                                         |Introspecção, Questionário|
+| Número     | Requisito   | Técnica    |
+|:------------:|-----------------|------------|
+|RNF1|O aplicativo deve rodar nas versões mais recentes (até 5 anos) de Android e iOS|Introspecção|
+|RNF2|O aplicativo deve ter uma latência máxima de 1000ms por requisição             |Introspecção|
+|RNF3|O aplicativo deve estar disponível 24h                                         |Introspecção, Questionário|
 
 *Tabela 2: Requisitos Não-Funcionais*
 

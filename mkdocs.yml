@@ -18,7 +18,7 @@ nav:
     - Resultado: 'elicitação/resultado.md'
     - Priorização: 'elicitação/priorização/moscow.md'
   - Modelagem:
-    - Lexico: 'modelagem/lexico.md'
+    - Léxicos: 'modelagem/lexico.md'
     - Cenários: 'modelagem/cenarios.md'
     - Casos de Uso: 'modelagem/casos.md'
     - Especificação Suplementar: 'modelagem/especificacao.md'
