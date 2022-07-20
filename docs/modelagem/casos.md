@@ -122,4 +122,4 @@ Foi utilizada a ferramenta "LucidChart" para a produção dos diagramas de casos
 
 | Versão |     Data     |              Descrição               |      Autor      | Revisor |
 |:------:|:------------:|:------------------------------------:|:---------------:|:-------:|
-|0.1     |19/07         |Criação da página                     |Arthur Henrique  |Alex     |
+|0.1     |19/07         |Criação da página                     |Arthur Henrique e Thiago Gomes  |Alex     |
