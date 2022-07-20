@@ -4,6 +4,43 @@ Chris
 ## 2. Metodologia
 Chris
 ## 3. Resultado
+### 3.1 Léxico: Registrar
+Abaixo segue a tabela com as informação sobre o léxico:
+
+<center>
+
+|    Léxico     | Registrar                                                                    |
+|:-------------:|:-----------------------------------------------------------------------------|
+|     Noção     | Registrar-se no aplicativo                                                   |
+| Classificação | Verbo                                                                        |
+|   Impactos    | O usuário pode se registrar no aplicativo, caso queira usufruir dos serviços |
+|   Sinônimos   | Cadastrar                                                                    |
+
+</center>
+
+<h6 align = "center">Tabela 1: Léxico Registrar</h6>
+
+
+
+### 3.1 Léxico: Login
+Abaixo segue a tabela com as informação sobre o léxico:
+
+<center>
+
+|    Léxico     | Login                                                                        |
+|:-------------:|:-----------------------------------------------------------------------------|
+|     Noção     | Registrar-se no aplicativo                                                   |
+| Classificação | Verbo                                                                        |
+|   Impactos    | O usuário pode se registrar no aplicativo, caso queira usufruir dos serviços |
+|   Sinônimos   | Cadastrar                                                                    |
+
+</center>
+
+<h6 align = "center">Tabela 1: Léxico Login</h6>
+
+
+
+
 registrar
 login
 CNH
